@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for Mac OS X copy">
+  <action id="ChangesView.Diff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="CompareTwoFiles" />
+</keymap>

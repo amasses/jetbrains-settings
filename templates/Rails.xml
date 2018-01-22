@@ -1,0 +1,16 @@
+<templateSet group="Rails">
+  <template name="rld" value="Rails.logger.debug &quot;$END$&quot;" description="Inset Rails.logger.debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="true" />
+      <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="rli" value="Rails.logger.info &quot;$END$&quot;" description="Inset Rails.logger.info" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="true" />
+      <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
