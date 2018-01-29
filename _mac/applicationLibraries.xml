@@ -9560,6 +9560,66 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/childprocess-0.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="chunky_png (v1.3.6, RVM: ruby-2.2.1 [fz_reseller]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fz_reseller/gems/chunky_png-1.3.6/lib" />
@@ -19000,6 +19060,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
@@ -19030,6 +19104,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ffi-1.9.18/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
     <library name="ffi-compiler (v1.0.1, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
@@ -24612,6 +24700,46 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/iconv/1.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/iconv-1.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/iconv-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_size (v1.5.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_size (v1.5.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_size (v1.5.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_size (v1.5.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="image_size (v1.5.0, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/image_size-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="implements (v0.0.2, RVM: ruby-2.2.6) [gem]">
@@ -44286,6 +44414,46 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@secure_upload/gems/sdoc-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sequel (v3.45.0, RVM: ruby-2.2.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/sequel-3.45.0/bin" />
@@ -47852,6 +48020,46 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
@@ -51434,6 +51642,86 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/wisper-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
       </SOURCES>
     </library>
     <library name="xeroizer (v2.16.5@5cdde7, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
