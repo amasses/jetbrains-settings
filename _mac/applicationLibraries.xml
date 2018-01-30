@@ -3672,6 +3672,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="atlassian-stash (v0.7.0, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@global/gems/atlassian-stash-0.7.0/bin" />
