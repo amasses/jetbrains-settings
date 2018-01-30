@@ -18868,6 +18868,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/.buildkite" />
       </SOURCES>
     </library>
+    <library name="fat_zebra_rubocop (v0.0.8, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_rubocop-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_rubocop-0.0.8/conf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_rubocop-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_rubocop-0.0.8/conf" />
+      </SOURCES>
+    </library>
     <library name="FatZebra (v2.0.14@c1c157, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/bundler/gems/fatzebra-gateway-c1c1574c87b6/lib" />
