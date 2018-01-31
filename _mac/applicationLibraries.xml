@@ -1374,6 +1374,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/activerecord-import-0.22.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="activerecord-import (v0.22.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/activerecord-import-0.22.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="activerecord-postgres-hstore (v0.7.7, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/activerecord-postgres-hstore-0.7.7/lib" />
@@ -2988,6 +3000,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="anemone (v0.7.2, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.4.3, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/ansi-1.4.3/lib" />
@@ -3187,6 +3209,14 @@
       </SOURCES>
     </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/archive-zip-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/archive-zip-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="archive-zip (v0.7.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/archive-zip-0.7.0/lib" />
       </CLASSES>
@@ -10320,6 +10350,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/childprocess-0.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.8.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/childprocess-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/childprocess-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
@@ -14968,6 +15006,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-core-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="dry-core (v0.4.2, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-core-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-core-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-equalizer (v0.2.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/dry-equalizer-0.2.0/lib" />
@@ -19354,6 +19400,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_models-0.1.369/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_models-0.1.369/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/fat_zebra_models-0.1.369/lib" />
+      </SOURCES>
+    </library>
+    <library name="fat_zebra_models (v0.1.369, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fat_zebra_models-0.1.369/lib" />
       </SOURCES>
     </library>
     <library name="fat_zebra_rubocop (v0.0.1@57edbd, RVM: ruby-2.2.1 [fatzebra_dashboard]) [gem]">
@@ -24456,6 +24514,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/i18n-0.9.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/i18n-0.9.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/i18n-0.9.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n_data (v0.7.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/i18n_data-0.7.0/lib" />
@@ -26205,6 +26273,14 @@
       </SOURCES>
     </library>
     <library name="io-like (v0.3.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/io-like-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/io-like-0.3.0/lib" />
       </CLASSES>
@@ -28252,6 +28328,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/tests" />
       </SOURCES>
     </library>
+    <library name="log4r (v1.1.10, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/tests" />
+      </SOURCES>
+    </library>
     <library name="logging (v2.1.0.48, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/logging-2.2.2/lib" />
@@ -29334,6 +29420,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.15/.buildkite" />
       </SOURCES>
     </library>
+    <library name="metadata_field (v0.1.15, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/metadata_field-0.1.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/metadata_field-0.1.15/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/metadata_field-0.1.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/metadata_field-0.1.15/.buildkite" />
+      </SOURCES>
+    </library>
     <library name="metadata_field (v0.1.1@58ca1a, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/bundler/gems/metadata-field-58ca1a285362/lib" />
@@ -30010,6 +30106,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/mini_magick-4.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_magick (v4.8.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/mini_magick-4.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/mini_magick-4.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@fz_paynow/gems/mini_mime-0.1.4/bin" />
@@ -30092,6 +30196,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="mini_mime (v1.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mini_mime-1.0.0/bench" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.2.1 [fatzebra_dashboard]) [gem]">
@@ -30532,6 +30648,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
@@ -30980,6 +31104,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-6.10.1/config" />
       </SOURCES>
     </library>
+    <library name="money (v6.10.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-6.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-6.10.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-6.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-6.10.1/config" />
+      </SOURCES>
+    </library>
     <library name="money (v6.6.1, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/money-6.6.1/lib" />
@@ -31228,6 +31362,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/money-rails-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/money-rails-1.10.0/config" />
+      </SOURCES>
+    </library>
+    <library name="money-rails (v1.10.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-rails-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-rails-1.10.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-rails-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/money-rails-1.10.0/config" />
       </SOURCES>
     </library>
     <library name="money-rails (v1.6.0, RVM: ruby-2.2.1 [fz_paynow]) [gem]">
@@ -31594,6 +31738,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.7.1, RVM: ruby-2.2.6) [gem]">
@@ -34894,6 +35046,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.1.5, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/paranoia-2.1.5/lib" />
@@ -35550,6 +35710,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-0.21.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v1.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pg-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="pg-hstore (v1.2.0, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
@@ -37516,6 +37688,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-cors-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack-cors (v1.0.2, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rack-cors-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rack-cors-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v1.5.0, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/rack-protection-1.5.0/lib" />
@@ -38366,6 +38546,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rails-dom-testing-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.9, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rails-dom-testing-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rails-dom-testing-1.0.9/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.2.1 [secure_upload]) [gem]">
@@ -40839,6 +41027,14 @@
       </SOURCES>
     </library>
     <library name="robotex (v1.0.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/robotex-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/robotex-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="robotex (v1.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/robotex-1.0.0/lib" />
       </CLASSES>
@@ -43543,6 +43739,16 @@
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/samples" />
@@ -51522,6 +51728,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/tmp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/.buildkite" />
+      </SOURCES>
+    </library>
+    <library name="webhook_service (v0.1.12, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/webhook_service-0.1.12/.buildkite" />
       </SOURCES>
     </library>
     <library name="webhook_service (v0.1.7, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
