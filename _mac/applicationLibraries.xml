@@ -3596,6 +3596,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.4.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ast-2.4.0/lib" />
@@ -35086,6 +35094,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/parallel-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/parallel-1.12.1/lib" />
@@ -35232,6 +35248,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/parser-2.4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.4.0.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -36356,6 +36382,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, RVM: ruby-2.2.1) [gem]">
@@ -39230,6 +39264,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rake (v0.9.2.2, RVM: ruby-2.2.1) [gem]">
@@ -42662,6 +42704,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/rubocop-0.49.1/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.52.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rubocop-0.52.1/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-hmac (v0.4.0, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/ruby-hmac-0.4.0/lib" />
@@ -43088,6 +43144,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ruby-progressbar-1.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -51020,6 +51084,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_dashboard/gems/unicode-display_width-1.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_dashboard/gems/unicode-display_width-1.3.0/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.3.0, RVM: ruby-2.2.1) [gem]">
