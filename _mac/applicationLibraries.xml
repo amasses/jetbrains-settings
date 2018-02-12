@@ -29126,16 +29126,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/makara-0.3.7/gemfiles" />
       </SOURCES>
     </library>
-    <library name="makara (v0.3.7, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/gemfiles" />
-      </SOURCES>
-    </library>
     <library name="makara (v0.3.7, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/makara-0.3.7/lib" />
@@ -29156,14 +29146,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/makara-0.3.9/gemfiles" />
       </SOURCES>
     </library>
-    <library name="makara (v0.3.9, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+    <library name="makara (v0.3.9@c0752c, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.9/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.9/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/gemfiles" />
       </SOURCES>
     </library>
     <library name="master_pass (v0.0.10, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
