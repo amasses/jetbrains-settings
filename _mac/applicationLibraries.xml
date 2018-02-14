@@ -9402,6 +9402,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-3.9.1/features" />
       </SOURCES>
     </library>
+    <library name="capistrano-aws-hosts (v0.1.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-aws-hosts-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-aws-hosts-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-bundler (v1.1.4, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/capistrano-bundler-1.1.4/lib" />
@@ -9610,6 +9618,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/capistrano-harrow-0.5.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/capistrano-harrow-0.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-hostmenu (v0.1.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-hostmenu-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-hostmenu-0.1.3/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-nc (v0.1.4, RVM: ruby-2.2.1 [fatzebra_dashboard]) [gem]">
@@ -11332,6 +11348,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/color-1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="colored (v1.2, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/colored-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/colored-1.2/lib" />
       </SOURCES>
     </library>
     <library name="colorize (v0.7.7, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
