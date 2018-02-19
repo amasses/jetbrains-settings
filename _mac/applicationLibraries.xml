@@ -3558,6 +3558,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/arr-pm-0.0.10/.batcave" />
       </SOURCES>
     </library>
+    <library name="arr-pm (v0.0.10, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/arr-pm-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/arr-pm-0.0.10/.batcave" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/arr-pm-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/arr-pm-0.0.10/.batcave" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/ast-2.3.0/lib" />
@@ -6914,6 +6924,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/backports-3.11.0/frozen_old_spec" />
       </SOURCES>
     </library>
+    <library name="backports (v3.11.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/backports-3.11.1/frozen_old_spec" />
+      </SOURCES>
+    </library>
     <library name="backports (v3.6.8, RVM: ruby-2.2.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/backports-3.6.8/lib" />
@@ -9074,6 +9096,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v10.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v5.0.0, RVM: ruby-2.2.1 [exsslcior]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@exsslcior/gems/byebug-5.0.0/bin" />
@@ -9158,6 +9192,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/cabin-0.9.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/cabin-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cabin (v0.9.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/cabin-0.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/cabin-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/cabin-0.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/cabin-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="callsite (v0.0.11, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -10628,6 +10672,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/clamp-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="clamp (v1.0.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/clamp-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/clamp-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.2.1 [fz_paynow]) [gem]">
@@ -21740,6 +21792,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/tasks" />
       </SOURCES>
     </library>
+    <library name="foreman (v0.84.0@1b48eb, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/dist" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/dist" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/foreman-1b48ebe85c14/tasks" />
+      </SOURCES>
+    </library>
     <library name="forgery (v0.5.0, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/forgery-0.5.0/lib" />
@@ -21914,6 +21986,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fpm-1.9.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fpm-1.9.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fpm-1.9.3/templates" />
+      </SOURCES>
+    </library>
+    <library name="fpm (v1.9.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/fpm-1.9.3/templates" />
       </SOURCES>
     </library>
     <library name="fssm (v0.2.10, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -25812,6 +25896,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/insist-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/insist-1.0.0/.batcave" />
+      </SOURCES>
+    </library>
+    <library name="insist (v1.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/insist-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/insist-1.0.0/.batcave" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/insist-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/insist-1.0.0/.batcave" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -32728,6 +32822,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/mustache-0.99.8/man" />
       </SOURCES>
     </library>
+    <library name="mustache (v0.99.8, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/mustache-0.99.8/man" />
+      </SOURCES>
+    </library>
     <library name="mustache (v1.0.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/mustache-1.0.5/bin" />
@@ -36724,6 +36830,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/pleaserun-0.0.30/templates" />
       </SOURCES>
     </library>
+    <library name="pleaserun (v0.0.30, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pleaserun-0.0.30/templates" />
+      </SOURCES>
+    </library>
     <library name="poltergeist (v1.15.0, RVM: ruby-2.2.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/poltergeist-1.15.0/lib" />
@@ -37570,6 +37688,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pry-byebug-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.6.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pry-byebug-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/pry-byebug-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="pry-rails (v0.3.6, RVM: ruby-2.2.6) [gem]">
@@ -42156,6 +42282,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/rollbar.js" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.15.5@8c6319, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/rollbar.js" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/rollbar-gem-8c6319dd079c/rollbar.js" />
+      </SOURCES>
+    </library>
     <library name="rom (v3.2.3, RVM: ruby-2.2.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/rom-3.2.3/lib" />
@@ -44098,6 +44240,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/ruby-xz-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-xz (v0.2.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ruby-xz-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/ruby-xz-0.2.3/lib" />
       </SOURCES>
     </library>
     <library name="ruby2ruby (v2.2.0, RVM: ruby-2.2.1 [fatzebra_dashboard]) [gem]">
@@ -48938,6 +49088,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/stud-0.0.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="stud (v0.0.23, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/stud-0.0.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/stud-0.0.23/lib" />
       </SOURCES>
     </library>
     <library name="systemu (v2.6.5, RVM: ruby-2.2.1 [fz_paynow]) [gem]">
