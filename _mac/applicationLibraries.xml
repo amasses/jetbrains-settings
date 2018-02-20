@@ -25168,6 +25168,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.4/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.0.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/i18n-1.0.0/lib" />
@@ -29716,6 +29726,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="makara (v0.3.9@c0752c, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/makara-c0752c5174f5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/makara-c0752c5174f5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/makara-c0752c5174f5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/bundler/gems/makara-c0752c5174f5/gemfiles" />
       </SOURCES>
     </library>
     <library name="master_pass (v0.0.10, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -51688,6 +51708,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
     <library name="uber (v0.1.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
