@@ -46444,6 +46444,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-2.8.0/.hound_config" />
       </SOURCES>
     </library>
+    <library name="shoulda-matchers (v3.1.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/doc_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/shoulda-matchers-3.1.2/doc_config" />
+      </SOURCES>
+    </library>
     <library name="show_for (v0.5.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/show_for-0.5.0/lib" />
