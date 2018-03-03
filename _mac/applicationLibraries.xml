@@ -29952,6 +29952,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/metadata_field-0.1.16/.buildkite" />
       </SOURCES>
     </library>
+    <library name="metadata_field (v0.1.17, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/metadata_field-0.1.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/metadata_field-0.1.17/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/metadata_field-0.1.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/metadata_field-0.1.17/.buildkite" />
+      </SOURCES>
+    </library>
     <library name="metadata_field (v0.1.1@58ca1a, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/bundler/gems/metadata-field-58ca1a285362/lib" />
