@@ -3070,14 +3070,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/amex-eco-987311993c38/lib" />
       </SOURCES>
     </library>
-    <library name="amex_eco (v0.0.6@987311, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/amex-eco-987311993c38/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/amex-eco-987311993c38/lib" />
-      </SOURCES>
-    </library>
     <library name="amexdirect_settlement (v0.0.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/amexdirect_settlement-0.0.1/lib" />
@@ -12876,16 +12868,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/bundler/gems/cronitor-7939241d41af/lib" />
       </SOURCES>
     </library>
-    <library name="cronitor (v1.1.4@793924, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/cronitor-7939241d41af/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/cronitor-7939241d41af/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/cronitor-7939241d41af/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/cronitor-7939241d41af/lib" />
-      </SOURCES>
-    </library>
     <library name="cucumber (v1.2.5, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/cucumber-1.2.5/bin" />
@@ -19346,16 +19328,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-brakeman-bcf76312a081/config" />
       </SOURCES>
     </library>
-    <library name="fat_zebra_brakeman (v0.1.2@bcf763, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-brakeman-bcf76312a081/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-brakeman-bcf76312a081/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-brakeman-bcf76312a081/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-brakeman-bcf76312a081/config" />
-      </SOURCES>
-    </library>
     <library name="fat_zebra_brakeman (v0.1.2@bcf763, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/bundler/gems/fat-zebra-brakeman-bcf76312a081/lib" />
@@ -20262,16 +20234,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@fz_paynow/bundler/gems/fat-zebra-rubocop-57edbd0a792e/conf" />
       </SOURCES>
     </library>
-    <library name="fat_zebra_rubocop (v0.0.1@57edbd, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-57edbd0a792e/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-57edbd0a792e/conf" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-57edbd0a792e/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-57edbd0a792e/conf" />
-      </SOURCES>
-    </library>
     <library name="fat_zebra_rubocop (v0.0.1@57edbd, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/bundler/gems/fat-zebra-rubocop-57edbd0a792e/lib" />
@@ -20300,16 +20262,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/conf" />
-      </SOURCES>
-    </library>
-    <library name="fat_zebra_rubocop (v0.0.1@e22a4a, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/conf" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-e22a4a4f331c/conf" />
       </SOURCES>
     </library>
     <library name="fat_zebra_rubocop (v0.0.1@e22a4a, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -20350,16 +20302,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/fat_zebra_rubocop-0.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/fat_zebra_rubocop-0.0.2/conf" />
-      </SOURCES>
-    </library>
-    <library name="fat_zebra_rubocop (v0.0.2@a28ed1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-a28ed11eeb3d/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-a28ed11eeb3d/conf" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-a28ed11eeb3d/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/fat-zebra-rubocop-a28ed11eeb3d/conf" />
       </SOURCES>
     </library>
     <library name="fat_zebra_rubocop (v0.0.2@a28ed1, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -29718,14 +29660,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@fz_paynow/bundler/gems/masterpass-b1de649e9670/lib" />
       </SOURCES>
     </library>
-    <library name="master_pass (v0.0.10@b1de64, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/masterpass-b1de649e9670/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/masterpass-b1de649e9670/lib" />
-      </SOURCES>
-    </library>
     <library name="master_pass (v0.0.10@b1de64, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/bundler/gems/masterpass-b1de649e9670/lib" />
@@ -30178,14 +30112,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/metadata-field-58ca1a285362/lib" />
-      </SOURCES>
-    </library>
-    <library name="metadata_field (v0.1.1@58ca1a, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/metadata-field-58ca1a285362/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/metadata-field-58ca1a285362/lib" />
       </SOURCES>
     </library>
     <library name="metadata_field (v0.1.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -41702,14 +41628,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/bundler/gems/redis-lock-71c48e048d06/lib" />
       </SOURCES>
     </library>
-    <library name="redis_lock (v0.1.0@71c48e, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/redis-lock-71c48e048d06/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/redis-lock-71c48e048d06/lib" />
-      </SOURCES>
-    </library>
     <library name="redis_lock (v0.1.0@b140ec, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/bundler/gems/redis-lock-b140ec70c89c/lib" />
@@ -45266,54 +45184,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
-    <library name="s3_backup (v0.0.1@46c867, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-46c867377ba2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-46c867377ba2/lib" />
-      </SOURCES>
-    </library>
-    <library name="s3_backup (v0.0.1@811487, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-811487c28a75/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-811487c28a75/lib" />
-      </SOURCES>
-    </library>
-    <library name="s3_backup (v0.0.1@cc030a, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-cc030ae69c2c/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-cc030ae69c2c/lib" />
-      </SOURCES>
-    </library>
-    <library name="s3_backup (v0.0.1@dd9a8c, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-dd9a8cd0e17b/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-dd9a8cd0e17b/lib" />
-      </SOURCES>
-    </library>
-    <library name="s3_backup (v0.0.2@1dd3ed, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-1dd3edc8f2a5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-1dd3edc8f2a5/lib" />
-      </SOURCES>
-    </library>
-    <library name="s3_backup (v0.0.5@225237, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-2252376fa9ae/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/s3_backup-2252376fa9ae/lib" />
-      </SOURCES>
-    </library>
     <library name="s3_backup (v0.0.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/s3_backup-0.0.6/lib" />
@@ -45352,14 +45222,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/bundler/gems/safe-flipper-f7a7a8319c9e/lib" />
-      </SOURCES>
-    </library>
-    <library name="safe_flipper (v0.1.0@f7a7a8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/safe-flipper-f7a7a8319c9e/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/safe-flipper-f7a7a8319c9e/lib" />
       </SOURCES>
     </library>
     <library name="safe_flipper (v0.1.1, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -45454,14 +45316,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/bundler/gems/safe-redis-b786a3a82bc4/lib" />
-      </SOURCES>
-    </library>
-    <library name="safe_redis (v0.1.0@b786a3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/safe-redis-b786a3a82bc4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/safe-redis-b786a3a82bc4/lib" />
       </SOURCES>
     </library>
     <library name="safe_redis (v0.1.0@d59017, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -50962,16 +50816,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/token-generator-361d0fef305e/lib" />
       </SOURCES>
     </library>
-    <library name="token_generator (v0.1.1@361d0f, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/token-generator-361d0fef305e/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/token-generator-361d0fef305e/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/token-generator-361d0fef305e/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/token-generator-361d0fef305e/lib" />
-      </SOURCES>
-    </library>
     <library name="token_generator (v0.1.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/token_generator-0.1.2/bin" />
@@ -52890,14 +52734,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/visa-checkout-968128f66f0f/lib" />
       </SOURCES>
     </library>
-    <library name="visa_checkout (v1.0.0@968128, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/visa-checkout-968128f66f0f/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/visa-checkout-968128f66f0f/lib" />
-      </SOURCES>
-    </library>
     <library name="visa_checkout (v1.0.0@968128, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/bundler/gems/visa-checkout-968128f66f0f/lib" />
@@ -52950,14 +52786,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/bundler/gems/visa-checkout-52959f69e01d/lib" />
-      </SOURCES>
-    </library>
-    <library name="visa_checkout (v1.0.1@52959f, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/visa-checkout-52959f69e01d/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/bundler/gems/visa-checkout-52959f69e01d/lib" />
       </SOURCES>
     </library>
     <library name="visa_checkout (v1.0.1@52959f, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
