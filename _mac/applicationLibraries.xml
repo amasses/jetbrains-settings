@@ -10168,6 +10168,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/capistrano-npm-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-nvm (v0.0.7, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-nvm-0.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-nvm-0.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-passenger (v0.1.1, RVM: ruby-2.2.1 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_dashboard/gems/capistrano-passenger-0.1.1/lib" />
