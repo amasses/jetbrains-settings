@@ -9648,6 +9648,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/byebug-10.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v2.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/2.7.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/2.7.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v5.0.0, RVM: ruby-2.2.1 [exsslcior]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@exsslcior/gems/byebug-5.0.0/bin" />
@@ -12304,6 +12318,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@exsslcior/gems/columnize-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="columnize (v0.9.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/columnize-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/columnize-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="comma (v3.2.4, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/comma-3.2.4/lib" />
@@ -13906,6 +13928,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/debugger-linecache-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debugger-linecache (v1.2.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/debugger-linecache-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/debugger-linecache-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="debugger-ruby_core_source (v1.2.0, RVM: ruby-2.2.6) [gem]">
@@ -39812,6 +39842,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-0.9.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-0.9.12.2/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-0.9.12.2/wiki" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v1.3.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-byebug-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-byebug-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="pry-byebug (v3.4.2, RVM: ruby-2.2.6) [gem]">
