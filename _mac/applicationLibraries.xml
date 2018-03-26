@@ -9504,6 +9504,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/data" />
       </SOURCES>
     </library>
+    <library name="bundler-audit (v0.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/bundler-audit-0.6.0/data" />
+      </SOURCES>
+    </library>
     <library name="bundler-audit (v0.6.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/bundler-audit-0.6.0/bin" />
@@ -11108,6 +11120,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-0.17.3/culture" />
       </SOURCES>
     </library>
+    <library name="celluloid (v0.17.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture" />
+      </SOURCES>
+    </library>
     <library name="celluloid-culture (v0.2, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-0.17.3/culture/gems" />
@@ -11120,6 +11142,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-0.17.3/culture/rubocop" />
       </SOURCES>
     </library>
+    <library name="celluloid-culture (v0.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/rubocop" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/gems" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/rubocop" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/gems" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-0.17.3/culture/tasks" />
+      </SOURCES>
+    </library>
     <library name="celluloid-essentials (v0.20.5, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-essentials-0.20.5/lib" />
@@ -11128,6 +11162,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-essentials-0.20.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-essentials-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-essentials (v0.20.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-essentials-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-essentials-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-essentials-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-essentials-0.20.5/tasks" />
       </SOURCES>
     </library>
     <library name="celluloid-extras (v0.20.5, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -11140,6 +11184,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-extras-0.20.5/tasks" />
       </SOURCES>
     </library>
+    <library name="celluloid-extras (v0.20.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-extras-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-extras-0.20.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-extras-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-extras-0.20.5/lib" />
+      </SOURCES>
+    </library>
     <library name="celluloid-fsm (v0.20.5, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-fsm-0.20.5/lib" />
@@ -11148,6 +11202,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-fsm-0.20.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-fsm-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-fsm (v0.20.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-fsm-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-fsm-0.20.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-fsm-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-fsm-0.20.5/lib" />
       </SOURCES>
     </library>
     <library name="celluloid-pool (v0.20.5, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -11160,6 +11224,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-pool-0.20.5/tasks" />
       </SOURCES>
     </library>
+    <library name="celluloid-pool (v0.20.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-pool-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-pool-0.20.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-pool-0.20.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-pool-0.20.5/lib" />
+      </SOURCES>
+    </library>
     <library name="celluloid-supervision (v0.20.6, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-supervision-0.20.6/lib" />
@@ -11168,6 +11242,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-supervision-0.20.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/celluloid-supervision-0.20.6/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-supervision (v0.20.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-supervision-0.20.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-supervision-0.20.6/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-supervision-0.20.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/celluloid-supervision-0.20.6/tasks" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v2.3.1, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -18302,6 +18386,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/et-orbi-1.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi (v1.1.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/et-orbi-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/et-orbi-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ethon (v0.10.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/ethon-0.10.1/lib" />
@@ -25416,6 +25508,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/hitimes-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/hitimes-1.2.4/tasks" />
+      </SOURCES>
+    </library>
+    <library name="hitimes (v1.2.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/hitimes-1.2.6/tasks" />
       </SOURCES>
     </library>
     <library name="html2haml (v2.0.0, RVM: ruby-2.2.1 [exsslcior]) [gem]">
@@ -49854,6 +49958,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_dashboard/gems/sidekiq-3.4.1/web" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v3.5.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/web" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-3.5.4/web" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v4.1.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/sidekiq-4.1.0/bin" />
@@ -50158,6 +50274,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/sidekiq-scheduler-2.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/sidekiq-scheduler-2.2.1/web" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-scheduler (v2.2.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-scheduler-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-scheduler-2.2.1/web" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-scheduler-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sidekiq-scheduler-2.2.1/web" />
       </SOURCES>
     </library>
     <library name="sidetiq (v0.3.6, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
@@ -53886,6 +54012,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/timers-4.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="timers (v4.1.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/timers-4.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/timers-4.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="tire (v0.5.4, RVM: ruby-2.2.1 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/tire-0.5.4/lib" />
@@ -54430,6 +54564,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/tzinfo-0.3.53/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.54, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/tzinfo-0.3.54/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/tzinfo-0.3.54/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.2.1 [exsslcior]) [gem]">
