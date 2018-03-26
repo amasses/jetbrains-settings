@@ -3250,6 +3250,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/amzn_trace_id-0.1.3/.buildkite" />
       </SOURCES>
     </library>
+    <library name="amzn_trace_id (v0.1.4, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.4/.buildkite" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.4/.buildkite" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="amzn_trace_id (v0.1.5, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.5/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/amzn_trace_id-0.1.5/.buildkite" />
+      </SOURCES>
+    </library>
     <library name="anemone (v0.7.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/bin" />
@@ -7852,6 +7872,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_reseller/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -29108,6 +29136,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6/gems/json-1.7.7/diagrams" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
@@ -40080,6 +40116,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/pry-remote-0.1.8/lib" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
@@ -42796,6 +42846,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rake-10.4.0/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
@@ -43518,6 +43582,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rdoc-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/rdoc-3.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
