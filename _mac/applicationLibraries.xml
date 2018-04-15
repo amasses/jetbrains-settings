@@ -4456,6 +4456,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/aws-partitions-1.70.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.72.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-partitions-1.72.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-partitions-1.72.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.2.11, RVM: ruby-2.2.1 [secure_upload]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@secure_upload/gems/aws-sdk-2.2.11/lib" />
@@ -5328,6 +5336,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/aws-sdk-core-3.17.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.17.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-core-3.17.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-core-3.17.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v3.2.0, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/aws-sdk-core-3.2.0/lib" />
@@ -5566,6 +5582,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/aws-sdk-ec2-1.27.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.29.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-ec2-1.29.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-ec2-1.29.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ec2 (v1.29.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -6150,6 +6174,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/aws-sdk-kms-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.5.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-kms-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sdk-kms-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.5.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -7300,6 +7332,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sigv4-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -10314,6 +10354,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-aws-hosts-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-aws-hosts (v0.1.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/capistrano-aws-hosts-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/capistrano-aws-hosts-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-aws-hosts (v0.1.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/capistrano-aws-hosts-0.1.1/lib" />
@@ -10562,6 +10610,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/capistrano-hostmenu-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-hostmenu (v0.1.3@d6ae04, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/bundler/gems/capistrano-hostmenu-d6ae04d5a7c2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/bundler/gems/capistrano-hostmenu-d6ae04d5a7c2/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-hostmenu (v0.1.3@d6ae04, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -12580,6 +12636,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/color-1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="colored (v1.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/colored-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/colored-1.2/lib" />
       </SOURCES>
     </library>
     <library name="colored (v1.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -16346,6 +16410,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/dry-configurable-0.7.0/rakelib" />
       </SOURCES>
     </library>
+    <library name="dry-configurable (v0.7.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-configurable-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-configurable-0.7.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-configurable-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-configurable-0.7.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="dry-configurable (v0.7.0, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@fz_paynow/gems/dry-configurable-0.7.0/lib" />
@@ -16434,6 +16508,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/dry-container-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/dry-container-0.6.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="dry-container (v0.6.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-container-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-container-0.6.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-container-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-container-0.6.0/rakelib" />
       </SOURCES>
     </library>
     <library name="dry-container (v0.6.0, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
@@ -16706,6 +16790,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-core-0.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="dry-core (v0.4.5, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-core-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-core-0.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-core (v0.4.5, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/dry-core-0.4.5/lib" />
@@ -16728,6 +16820,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/dry-equalizer-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-equalizer (v0.2.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-equalizer-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-equalizer-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="dry-equalizer (v0.2.0, RVM: ruby-2.2.6 [fz_paynow]) [gem]">
@@ -16850,6 +16950,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-logic-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-logic (v0.4.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-logic-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-logic-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="dry-logic (v0.4.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -17026,6 +17134,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-struct-0.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-struct-0.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-struct-0.3.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="dry-struct (v0.4.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-struct-0.4.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="dry-struct (v0.4.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -17220,6 +17340,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/dry-types-0.12.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="dry-types (v0.12.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-types-0.12.2/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="dry-types (v0.12.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/dry-types-0.12.2/lib" />
@@ -17400,6 +17532,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-validation-0.11.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-validation-0.11.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/dry-validation-0.11.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="dry-validation (v0.11.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/dry-validation-0.11.1/benchmarks" />
       </SOURCES>
     </library>
     <library name="dry-validation (v0.11.1, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -22184,6 +22330,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fdi_xtp-1.1.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fdi_xtp-1.1.8/res" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fdi_xtp-1.1.8/.buildkite" />
+      </SOURCES>
+    </library>
+    <library name="fdms_ipg (v1.0.5, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fdms_ipg-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/fdms_ipg-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
@@ -27782,6 +27936,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/ice_nine-0.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/ice_nine-0.11.2/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_fatapi/gems/ice_nine-0.11.2/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.2, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.2.1 [fz_reseller]) [gem]">
