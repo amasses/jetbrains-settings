@@ -1561,13 +1561,9 @@
     <library name="activerecord-import (v0.22.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/activerecord-import-0.22.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="activerecord-import (v0.22.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -2463,13 +2459,9 @@
     <library name="addressable (v2.5.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/tasks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/addressable-2.5.2/tasks" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -3314,11 +3306,9 @@
     </library>
     <library name="anemone (v0.7.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/anemone-0.7.2/lib" />
       </SOURCES>
     </library>
@@ -3463,11 +3453,9 @@
     <library name="ansi (v1.5.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ansi-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ansi-1.5.0/demo" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ansi-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ansi-1.5.0/demo" />
       </SOURCES>
     </library>
     <library name="ansi (v1.5.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -5208,14 +5196,10 @@
     </library>
     <library name="aws-sdk-core (v2.3.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/apis" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/aws-sdk-core-2.3.1/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.3.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -7337,11 +7321,9 @@
     <library name="axiom-types (v0.1.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/axiom-types-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/axiom-types-0.1.1/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/axiom-types-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/axiom-types-0.1.1/config" />
       </SOURCES>
     </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -7568,13 +7550,9 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
@@ -7706,13 +7684,9 @@
     </library>
     <library name="bcrypt-ruby (v3.0.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt-ruby/3.0.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-ruby-3.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt-ruby/3.0.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bcrypt-ruby-3.0.1/lib" />
       </SOURCES>
     </library>
@@ -7953,12 +7927,8 @@
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -8086,13 +8056,9 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
@@ -8378,14 +8344,10 @@
     </library>
     <library name="brakeman (v4.0.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/bundle" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/brakeman-4.0.1/bundle" />
       </SOURCES>
     </library>
     <library name="brakeman (v4.0.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -8779,11 +8741,9 @@
     <library name="builder (v3.2.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/builder-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/builder-3.2.3/rakelib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/builder-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -8901,15 +8861,9 @@
     <library name="bullet (v5.6.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/perf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/rails" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/tasks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/perf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/rails" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bullet-5.6.1/tasks" />
       </SOURCES>
     </library>
     <library name="bullet (v5.6.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -8990,11 +8944,9 @@
     </library>
     <library name="bundle-audit (v0.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundle-audit-0.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundle-audit-0.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundle-audit-0.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundle-audit-0.1.0/lib" />
       </SOURCES>
     </library>
@@ -9242,18 +9194,10 @@
     </library>
     <library name="bundler (v1.15.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/task" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.15.4/task" />
       </SOURCES>
     </library>
     <library name="bundler (v1.15.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -9310,14 +9254,10 @@
     </library>
     <library name="bundler (v1.16.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.0/man" />
       </SOURCES>
     </library>
     <library name="bundler (v1.16.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -9378,14 +9318,10 @@
     </library>
     <library name="bundler (v1.16.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/bundler-1.16.1/man" />
       </SOURCES>
     </library>
     <library name="bundler (v1.16.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -9578,14 +9514,10 @@
     </library>
     <library name="bundler-audit (v0.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/data" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/bundler-audit-0.6.0/data" />
       </SOURCES>
     </library>
     <library name="bundler-audit (v0.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -9850,15 +9782,9 @@
     </library>
     <library name="byebug (v9.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/byebug-9.1.0/lib" />
       </SOURCES>
     </library>
@@ -10084,14 +10010,10 @@
     </library>
     <library name="capistrano (v3.4.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/features" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capistrano-3.4.0/features" />
       </SOURCES>
     </library>
     <library name="capistrano (v3.4.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -11049,11 +10971,9 @@
     <library name="capybara (v2.15.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capybara-2.15.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capybara-2.15.4/.yard" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capybara-2.15.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/capybara-2.15.4/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.15.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -11500,14 +11420,10 @@
     </library>
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/chromedriver-helper-1.1.0/concourse" />
       </SOURCES>
     </library>
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -11635,11 +11551,9 @@
     <library name="cliver (v0.3.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/cliver-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/cliver-0.3.2/.githooks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/cliver-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/cliver-0.3.2/.githooks" />
       </SOURCES>
     </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -11788,11 +11702,9 @@
     </library>
     <library name="coderay (v1.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coderay-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coderay-1.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coderay-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
@@ -12005,11 +11917,9 @@
     <library name="coercible (v1.0.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coercible-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coercible-1.0.0/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coercible-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coercible-1.0.0/config" />
       </SOURCES>
     </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -12077,11 +11987,9 @@
     <library name="coffee-rails (v4.0.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coffee-rails-4.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coffee-rails-4.0.1/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coffee-rails-4.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/coffee-rails-4.0.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.0.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -12643,11 +12551,9 @@
     <library name="comma (v3.2.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/comma-3.2.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/comma-3.2.4/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/comma-3.2.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/comma-3.2.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="comma (v3.2.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -13357,11 +13263,9 @@
     <library name="country_select (v2.2.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/country_select-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/country_select-2.2.0/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/country_select-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/country_select-2.2.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="country_select (v2.2.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -13445,11 +13349,9 @@
     <library name="crack (v0.4.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/crack-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/crack-0.4.3/script" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/crack-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
     <library name="crack (v0.4.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -14051,11 +13953,9 @@
     <library name="database_cleaner (v1.6.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/database_cleaner-1.6.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/database_cleaner-1.6.2/features" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/database_cleaner-1.6.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/database_cleaner-1.6.2/features" />
       </SOURCES>
     </library>
     <library name="database_cleaner (v1.6.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -14182,13 +14082,9 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
     </library>
@@ -14495,11 +14391,9 @@
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/descendants_tracker-0.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/descendants_tracker-0.0.4/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/descendants_tracker-0.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/descendants_tracker-0.0.4/config" />
       </SOURCES>
     </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -14758,14 +14652,10 @@
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/diff-lcs-1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/diff-lcs-1.3/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/diff-lcs-1.3/lib" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -15149,11 +15039,9 @@
     <library name="dogapi (v1.10.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dogapi-1.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dogapi-1.10.0/tests" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dogapi-1.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dogapi-1.10.0/tests" />
       </SOURCES>
     </library>
     <library name="dogapi (v1.10.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -15651,13 +15539,9 @@
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/tool" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/domain_name-0.5.20170404/tool" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -15856,11 +15740,9 @@
     </library>
     <library name="dotenv (v2.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dotenv-2.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dotenv-2.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dotenv-2.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dotenv-2.1.0/lib" />
       </SOURCES>
     </library>
@@ -16191,11 +16073,9 @@
     <library name="dry-configurable (v0.7.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-configurable-0.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-configurable-0.7.0/rakelib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-configurable-0.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-configurable-0.7.0/rakelib" />
       </SOURCES>
     </library>
     <library name="dry-configurable (v0.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -16279,11 +16159,9 @@
     <library name="dry-container (v0.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-container-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-container-0.6.0/rakelib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-container-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-container-0.6.0/rakelib" />
       </SOURCES>
     </library>
     <library name="dry-container (v0.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -16854,14 +16732,10 @@
     </library>
     <library name="dry-struct (v0.4.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/benchmarks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-struct-0.4.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="dry-struct (v0.4.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -17041,13 +16915,9 @@
     <library name="dry-types (v0.12.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/log" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/log" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-types-0.12.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="dry-types (v0.12.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -17215,15 +17085,9 @@
     <library name="dry-validation (v0.11.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/log" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/log" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/dry-validation-0.11.1/benchmarks" />
       </SOURCES>
     </library>
     <library name="dry-validation (v0.11.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -17509,11 +17373,9 @@
     <library name="elasticsearch-api (v1.0.12, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-api-1.0.12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-api-1.0.12/utils" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-api-1.0.12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-api-1.0.12/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-api (v1.0.12, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -17679,11 +17541,9 @@
     <library name="elasticsearch-model (v0.1.7, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-model-0.1.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-model-0.1.7/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-model-0.1.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/elasticsearch-model-0.1.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="elasticsearch-model (v0.1.7, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -18205,11 +18065,9 @@
     <library name="equalizer (v0.0.11, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/equalizer-0.0.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/equalizer-0.0.11/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/equalizer-0.0.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/equalizer-0.0.11/config" />
       </SOURCES>
     </library>
     <library name="equalizer (v0.0.11, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -18448,18 +18306,10 @@
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/doc-api" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/doc-api" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -18623,11 +18473,9 @@
     <library name="exception_notification (v4.2.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/exception_notification-4.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/exception_notification-4.2.2/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/exception_notification-4.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/exception_notification-4.2.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="exception_notification (v4.2.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -19170,13 +19018,9 @@
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
@@ -19435,11 +19279,9 @@
     <library name="factory_girl (v4.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl-4.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl-4.8.0/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl-4.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl-4.8.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="factory_girl (v4.8.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -19610,20 +19452,10 @@
     </library>
     <library name="factory_girl_rails (v4.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/factory_girl_rails-4.8.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="factory_girl_rails (v4.8.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -20083,11 +19915,9 @@
     <library name="faraday (v0.9.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/faraday-0.9.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/faraday-0.9.1/script" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/faraday-0.9.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/faraday-0.9.1/script" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -20469,11 +20299,9 @@
     <library name="fat_zebra (v3.0.4@2421ec, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/Ruby-Library-2421ec2c6019/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/Ruby-Library-2421ec2c6019/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/Ruby-Library-2421ec2c6019/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/Ruby-Library-2421ec2c6019/vendor" />
       </SOURCES>
     </library>
     <library name="fat_zebra (v3.0.4@2421ec, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -20593,11 +20421,9 @@
     <library name="fat_zebra_brakeman (v0.1.2@bcf763, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-brakeman-bcf76312a081/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-brakeman-bcf76312a081/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-brakeman-bcf76312a081/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-brakeman-bcf76312a081/config" />
       </SOURCES>
     </library>
     <library name="fat_zebra_brakeman (v0.1.2@bcf763, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -21344,13 +21170,9 @@
     </library>
     <library name="fat_zebra_models (v0.1.347, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.347/lib" />
       </SOURCES>
     </library>
@@ -21406,13 +21228,9 @@
     </library>
     <library name="fat_zebra_models (v0.1.369, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.369/lib" />
       </SOURCES>
     </library>
@@ -21478,13 +21296,9 @@
     </library>
     <library name="fat_zebra_models (v0.1.406, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/db" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/fat_zebra_models-0.1.406/lib" />
       </SOURCES>
     </library>
@@ -21729,13 +21543,9 @@
     <library name="fat_zebra_rubocop (v0.0.6@7ddff8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/conf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/.buildkite" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/conf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/fat-zebra-rubocop-7ddff83793c7/.buildkite" />
       </SOURCES>
     </library>
     <library name="fat_zebra_rubocop (v0.0.6@7ddff8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -21926,18 +21736,10 @@
     </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.10" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.10" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ffi-1.9.10/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -22054,16 +21856,10 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -23354,22 +23150,10 @@
     </library>
     <library name="foreman (v0.84.0@1b48eb, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/dist" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/dist" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/foreman-1b48ebe85c14/tasks" />
       </SOURCES>
     </library>
     <library name="foreman (v0.84.0@1b48eb, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -23768,11 +23552,9 @@
     </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/gem-wrappers-1.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/gem-wrappers-1.2.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/gem-wrappers-1.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
@@ -24434,11 +24216,9 @@
     </library>
     <library name="haml (v4.0.6, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/haml-4.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/haml-4.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/haml-4.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/haml-4.0.6/lib" />
       </SOURCES>
     </library>
@@ -26260,18 +26040,10 @@
     </library>
     <library name="httparty (v0.13.5, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/website" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/features" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/website" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/httparty-0.13.5/features" />
       </SOURCES>
     </library>
     <library name="httparty (v0.13.5, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -26791,11 +26563,9 @@
     <library name="i18n (v0.9.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.3/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.9.3, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -26831,11 +26601,9 @@
     <library name="i18n (v0.9.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.4/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n-0.9.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.9.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -26997,11 +26765,9 @@
     <library name="i18n_data (v0.7.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n_data-0.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n_data-0.7.0/cache" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n_data-0.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/i18n_data-0.7.0/cache" />
       </SOURCES>
     </library>
     <library name="i18n_data (v0.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -27345,13 +27111,9 @@
     <library name="ice_nine (v0.11.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -27583,11 +27345,9 @@
     <library name="inflecto (v0.0.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/inflecto-0.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/inflecto-0.0.2/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/inflecto-0.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/inflecto-0.0.2/config" />
       </SOURCES>
     </library>
     <library name="inflecto (v0.0.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -28349,74 +28109,8 @@
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/io" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/tk" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/cgi" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/drb" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/irb" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/net" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rss" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/uri" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/racc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/yaml" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rexml" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rinda" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/shell" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/digest" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/fiddle" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/matrix" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/ripper" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/syslog" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/openssl" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/webrick" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/optparse" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rubygems" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/x86_64-darwin16" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/unicode_normalize" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/io" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/tk" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/cgi" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/drb" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/irb" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/net" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rss" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/uri" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/racc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/yaml" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rexml" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rinda" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/shell" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/digest" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/fiddle" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/matrix" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/ripper" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/syslog" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/openssl" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/webrick" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/optparse" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rubygems" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/x86_64-darwin16" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/unicode_normalize" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -28777,11 +28471,9 @@
     <library name="jbuilder (v2.3.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jbuilder-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jbuilder-2.3.1/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jbuilder-2.3.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jbuilder-2.3.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.3.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -29127,11 +28819,9 @@
     <library name="jquery-rails (v4.0.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jquery-rails-4.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jquery-rails-4.0.4/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jquery-rails-4.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/jquery-rails-4.0.4/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.0.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -29281,12 +28971,8 @@
       </SOURCES>
     </library>
     <library name="json (v1.8.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="json (v1.8.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -29668,24 +29354,10 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-1.8.6/diagrams" />
       </SOURCES>
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -29788,24 +29460,10 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json-2.1.0/references" />
       </SOURCES>
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -30020,24 +29678,10 @@
     </library>
     <library name="json_pure (v1.8.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
     </library>
     <library name="json_pure (v1.8.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -30170,16 +29814,10 @@
     </library>
     <library name="kaminari (v0.16.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/kaminari-0.16.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="kaminari (v0.16.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -30528,14 +30166,10 @@
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -30873,11 +30507,9 @@
     <library name="log4r (v1.1.10, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/tests" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/log4r-1.1.10/tests" />
       </SOURCES>
     </library>
     <library name="log4r (v1.1.10, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -31129,11 +30761,9 @@
     <library name="loofah (v2.1.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/loofah-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/loofah-2.1.1/benchmark" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/loofah-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/loofah-2.1.1/benchmark" />
       </SOURCES>
     </library>
     <library name="loofah (v2.1.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -31621,11 +31251,9 @@
     <library name="makara (v0.3.7, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/makara-0.3.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="makara (v0.3.7, RVM: ruby-2.2.7 [fz_reseller]) [gem]">
@@ -31661,11 +31289,9 @@
     <library name="makara (v0.3.9@c0752c, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/makara-c0752c5174f5/gemfiles" />
       </SOURCES>
     </library>
     <library name="makara (v0.3.9@c0752c, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -32189,11 +31815,9 @@
     <library name="metadata_field (v0.1.15, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.15/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.15/.buildkite" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.15/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.15/.buildkite" />
       </SOURCES>
     </library>
     <library name="metadata_field (v0.1.15, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -32369,11 +31993,9 @@
     <library name="metadata_field (v0.1.5, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.5/.buildkite" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/metadata_field-0.1.5/.buildkite" />
       </SOURCES>
     </library>
     <library name="metadata_field (v0.1.5, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -32895,13 +32517,9 @@
     <library name="mime-types (v2.99.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/support" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mime-types-2.99.3/support" />
       </SOURCES>
     </library>
     <library name="mime-types (v2.99.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -33046,14 +32664,10 @@
     </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/bench" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-0.1.4/bench" />
       </SOURCES>
     </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -33102,14 +32716,10 @@
     </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bench" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_mime-1.0.0/bench" />
       </SOURCES>
     </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -33394,12 +33004,10 @@
     </library>
     <library name="mini_portile2 (v2.3.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_portile2-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_portile2-2.3.0/concourse" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/mini_portile2-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_portile2-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/mini_portile2-2.3.0/concourse" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/mini_portile2-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.3.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -33889,11 +33497,9 @@
     <library name="moneta (v0.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/moneta-0.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/moneta-0.8.0/script" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/moneta-0.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/moneta-0.8.0/script" />
       </SOURCES>
     </library>
     <library name="moneta (v0.8.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -34101,11 +33707,9 @@
     <library name="money (v6.10.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-6.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-6.10.1/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-6.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-6.10.1/config" />
       </SOURCES>
     </library>
     <library name="money (v6.10.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -34387,11 +33991,9 @@
     <library name="money-rails (v1.10.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-rails-1.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-rails-1.10.0/config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-rails-1.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/money-rails-1.10.0/config" />
       </SOURCES>
     </library>
     <library name="money-rails (v1.10.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -35231,11 +34833,9 @@
     <library name="nested-hstore (v0.1.2@36385d, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/nested-hstore-36385dfcd99d/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/nested-hstore-36385dfcd99d/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/nested-hstore-36385dfcd99d/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/nested-hstore-36385dfcd99d/gemfiles" />
       </SOURCES>
     </library>
     <library name="nested-hstore (v0.1.2@36385d, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -35915,11 +35515,9 @@
     <library name="net-ssh (v4.2.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/net-ssh-4.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/net-ssh-4.2.0/support" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/net-ssh-4.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/net-ssh-4.2.0/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v4.2.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -36143,11 +35741,9 @@
     <library name="netrc (v0.11.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/netrc-0.11.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/netrc-0.11.0/data" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/netrc-0.11.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
     <library name="netrc (v0.11.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -36396,22 +35992,10 @@
     </library>
     <library name="newrelic_rpm (v3.14.1.311, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/ui" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/cert" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/vendor" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/recipes" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/ui" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/cert" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/vendor" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/newrelic_rpm-3.14.1.311/recipes" />
       </SOURCES>
     </library>
     <library name="newrelic_rpm (v3.14.1.311, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -37364,20 +36948,10 @@
     </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/nokogiri-1.8.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -37468,22 +37042,10 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/nokogiri-1.8.2/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -38134,14 +37696,10 @@
     </library>
     <library name="okcomputer (v1.7.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/config" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/okcomputer-1.7.1/config" />
       </SOURCES>
     </library>
     <library name="okcomputer (v1.7.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -38444,11 +38002,9 @@
     </library>
     <library name="parser (v2.4.0.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
@@ -38502,11 +38058,9 @@
     </library>
     <library name="parser (v2.4.0.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/parser-2.4.0.2/lib" />
       </SOURCES>
     </library>
@@ -39046,13 +38600,9 @@
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.21.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.21.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-0.21.0/lib" />
       </SOURCES>
     </library>
@@ -39090,11 +38640,9 @@
     </library>
     <library name="pg (v1.0.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg-1.0.0/lib" />
       </SOURCES>
     </library>
@@ -39210,13 +38758,9 @@
     </library>
     <library name="pg_array_parser (v0.0.9, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg_array_parser/0.0.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg_array_parser-0.0.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg_array_parser-0.0.9/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg_array_parser/0.0.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg_array_parser-0.0.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pg_array_parser-0.0.9/lib" />
       </SOURCES>
     </library>
@@ -39533,11 +39077,9 @@
     <library name="postgres_ext (v3.0.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/postgres_ext-3.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/postgres_ext-3.0.0/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/postgres_ext-3.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/postgres_ext-3.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="postgres_ext (v3.0.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -39845,13 +39387,9 @@
     <library name="prawn (v2.0.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/manual" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-2.0.2/manual" />
       </SOURCES>
     </library>
     <library name="prawn (v2.0.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -39895,11 +39433,9 @@
     <library name="prawn-table (v0.2.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-table-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-table-0.2.2/manual" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-table-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/prawn-table-0.2.2/manual" />
       </SOURCES>
     </library>
     <library name="prawn-table (v0.2.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -40158,11 +39694,9 @@
     </library>
     <library name="pry (v0.11.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pry-0.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pry-0.11.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pry-0.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/pry-0.11.3/lib" />
       </SOURCES>
     </library>
@@ -40347,18 +39881,8 @@
       </SOURCES>
     </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -40492,14 +40016,10 @@
     </library>
     <library name="public_suffix (v3.0.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/data" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/public_suffix-3.0.1/data" />
       </SOURCES>
     </library>
     <library name="public_suffix (v3.0.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -40606,18 +40126,10 @@
     </library>
     <library name="puma (v3.11.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.11.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.11.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/puma-3.11.2/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.11.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -41140,16 +40652,10 @@
     </library>
     <library name="rack (v1.6.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.8/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.8, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -41192,6 +40698,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rack-1.6.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rack-1.6.9/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rack-1.6.9/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.9, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rack-1.6.9/lib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.9, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -41955,12 +41469,8 @@
       </SOURCES>
     </library>
     <library name="rails (v4.2.10, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-4.2.10/guides" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-4.2.10/guides" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rails (v4.2.10, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -42501,11 +42011,9 @@
     <library name="rails-i18n (v4.0.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-i18n-4.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-i18n-4.0.4/rails" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-i18n-4.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rails-i18n-4.0.4/rails" />
       </SOURCES>
     </library>
     <library name="rails-i18n (v4.0.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -42788,11 +42296,9 @@
     </library>
     <library name="railties (v4.2.10, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/railties-4.2.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/railties-4.2.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/railties-4.2.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/railties-4.2.10/lib" />
       </SOURCES>
     </library>
@@ -43046,11 +42552,9 @@
     </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rainbow-2.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
@@ -43157,15 +42661,9 @@
     <library name="rake (v10.4.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -43338,14 +42836,10 @@
     </library>
     <library name="rake (v10.5.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/rakelib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-10.5.0/rakelib" />
       </SOURCES>
     </library>
     <library name="rake (v10.5.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -43618,13 +43112,9 @@
     </library>
     <library name="rake (v12.3.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
@@ -43732,15 +43222,9 @@
     </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rb-fsevent-0.10.2/lib" />
       </SOURCES>
     </library>
@@ -43945,28 +43429,8 @@
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES />
@@ -44397,13 +43861,9 @@
     <library name="redis (v3.3.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/.travis" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/benchmarking" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/.travis" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -45150,11 +44610,9 @@
     </library>
     <library name="rest-client (v1.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rest-client-1.8.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rest-client-1.8.0/lib" />
       </SOURCES>
     </library>
@@ -45502,18 +44960,10 @@
     </library>
     <library name="rollbar (v2.15.5@8c6319, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/rollbar.js" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/bundler/gems/rollbar-gem-8c6319dd079c/rollbar.js" />
       </SOURCES>
     </library>
     <library name="rollbar (v2.15.5@8c6319, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -45809,13 +45259,9 @@
     <library name="rspec-collection_matchers (v1.1.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/features" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-collection_matchers-1.1.3/features" />
       </SOURCES>
     </library>
     <library name="rspec-collection_matchers (v1.1.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -46036,12 +45482,10 @@
     </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-core-3.6.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-core-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-core-3.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-core-3.6.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-core-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-core-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -46244,10 +45688,10 @@
     </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-expectations-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-expectations-3.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-expectations-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-expectations-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -46468,10 +45912,10 @@
     </library>
     <library name="rspec-mocks (v3.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-mocks-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-mocks-3.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-mocks-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-mocks-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -46806,10 +46250,10 @@
     </library>
     <library name="rspec-support (v3.6.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-support-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-support-3.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rspec-support-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.6.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -47008,16 +46452,10 @@
     </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/config" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/rubocop-0.49.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -47234,11 +46672,9 @@
     </library>
     <library name="ruby-ole (v1.2.11.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-ole-1.2.11.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-ole-1.2.11.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-ole-1.2.11.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-ole-1.2.11.8/lib" />
       </SOURCES>
     </library>
@@ -47422,15 +46858,9 @@
     </library>
     <library name="ruby-prof (v0.15.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-prof/0.15.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-prof/0.15.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ruby-prof-0.15.8/lib" />
       </SOURCES>
     </library>
@@ -48289,11 +47719,9 @@
     <library name="rubyzip (v1.2.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/samples" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -48856,11 +48284,9 @@
     </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/safe_yaml-1.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/safe_yaml-1.0.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/safe_yaml-1.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/safe_yaml-1.0.4/lib" />
       </SOURCES>
     </library>
@@ -49288,16 +48714,10 @@
     </library>
     <library name="sass (v3.5.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/extra" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/rails" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/extra" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sass-3.5.4/rails" />
       </SOURCES>
     </library>
     <library name="sass (v3.5.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50001,13 +49421,9 @@
     <library name="shoulda (v3.5.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-3.5.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="shoulda (v3.5.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50084,18 +49500,10 @@
     </library>
     <library name="shoulda-context (v1.2.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/rails" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/rails" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-context-1.2.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="shoulda-context (v1.2.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50183,19 +49591,9 @@
     <library name="shoulda-matchers (v2.8.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/doc_config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/.hound_config" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/doc_config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/shoulda-matchers-2.8.0/.hound_config" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v2.8.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50450,16 +49848,10 @@
     </library>
     <library name="sidekiq (v5.0.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-5.0.4/.github" />
       </SOURCES>
     </library>
     <library name="sidekiq (v5.0.4, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50589,11 +49981,9 @@
     <library name="sidekiq-scheduler (v2.1.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-scheduler-2.1.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-scheduler-2.1.8/web" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-scheduler-2.1.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sidekiq-scheduler-2.1.8/web" />
       </SOURCES>
     </library>
     <library name="sidekiq-scheduler (v2.1.8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50687,11 +50077,9 @@
     <library name="simplecov (v0.14.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-0.14.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-0.14.1/features" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-0.14.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-0.14.1/features" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.15.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50725,15 +50113,9 @@
     <library name="simplecov-html (v0.10.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/public" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/simplecov-html-0.10.1/public" />
       </SOURCES>
     </library>
     <library name="simplecov-html (v0.10.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -50860,6 +50242,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sinatra-1.4.8/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v1.4.8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -51528,11 +50918,9 @@
     </library>
     <library name="spreadsheet (v1.0.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spreadsheet-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spreadsheet-1.0.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spreadsheet-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spreadsheet-1.0.3/lib" />
       </SOURCES>
     </library>
@@ -51764,11 +51152,9 @@
     </library>
     <library name="spring (v2.0.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spring-2.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spring-2.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spring-2.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/spring-2.0.2/lib" />
       </SOURCES>
     </library>
@@ -51964,11 +51350,9 @@
     </library>
     <library name="sprockets (v2.12.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-2.12.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-2.12.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-2.12.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-2.12.4/lib" />
       </SOURCES>
     </library>
@@ -52130,11 +51514,9 @@
     </library>
     <library name="sprockets (v3.7.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-3.7.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/sprockets-3.7.1/lib" />
       </SOURCES>
     </library>
@@ -52972,16 +52354,10 @@
     </library>
     <library name="terminal-notifier (v1.6.3, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/terminal-notifier/1.6.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/terminal-notifier/1.6.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/terminal-notifier-1.6.3/vendor" />
       </SOURCES>
     </library>
     <library name="terminal-notifier (v1.6.3, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -53500,11 +52876,9 @@
     </library>
     <library name="thor (v0.19.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thor-0.19.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
@@ -53548,11 +52922,9 @@
     </library>
     <library name="thor (v0.20.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/thor-0.20.0/lib" />
       </SOURCES>
     </library>
@@ -53848,16 +53220,10 @@
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/yard-template" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -54008,11 +53374,9 @@
     </library>
     <library name="tilt (v1.4.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-1.4.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
@@ -54154,14 +53518,10 @@
     </library>
     <library name="tilt (v2.0.8, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/tilt-2.0.8/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.8, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -54514,14 +53874,10 @@
     </library>
     <library name="token_generator (v0.1.2, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/.buildkite" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/token_generator-0.1.2/.buildkite" />
       </SOURCES>
     </library>
     <library name="token_generator (v0.1.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -54787,11 +54143,9 @@
     <library name="ttfunk (v1.4.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ttfunk-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ttfunk-1.4.0/data" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ttfunk-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/ttfunk-1.4.0/data" />
       </SOURCES>
     </library>
     <library name="ttfunk (v1.4.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -55776,11 +55130,9 @@
     </library>
     <library name="unf_ext (v0.0.7.4, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unf_ext-0.0.7.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unf_ext-0.0.7.4/lib" />
       </SOURCES>
     </library>
@@ -55963,11 +55315,9 @@
     <library name="unicode-display_width (v1.3.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode-display_width-1.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode-display_width-1.3.0/data" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode-display_width-1.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.3.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -56101,11 +55451,9 @@
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode_utils-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode_utils-1.4.0/cdata" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode_utils-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/unicode_utils-1.4.0/cdata" />
       </SOURCES>
     </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -56692,16 +56040,10 @@
     </library>
     <library name="webhook_service (v0.1.12, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/.buildkite" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.12/.buildkite" />
       </SOURCES>
     </library>
     <library name="webhook_service (v0.1.12, RVM: ruby-2.2.7 [fz_paynow]) [gem]">
@@ -56748,16 +56090,10 @@
     </library>
     <library name="webhook_service (v0.1.16, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/.buildkite" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.16/.buildkite" />
       </SOURCES>
     </library>
     <library name="webhook_service (v0.1.21, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -56776,16 +56112,10 @@
     </library>
     <library name="webhook_service (v0.1.21, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/.buildkite" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webhook_service-0.1.21/.buildkite" />
       </SOURCES>
     </library>
     <library name="webhook_service (v0.1.21, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -56901,11 +56231,9 @@
     <library name="webmock (v3.1.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webmock-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webmock-3.1.0/minitest" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webmock-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/webmock-3.1.0/minitest" />
       </SOURCES>
     </library>
     <library name="webmock (v3.1.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
@@ -57152,13 +56480,9 @@
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.7.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.7.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_dashboard/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
     </library>
@@ -57542,18 +56866,10 @@
     </library>
     <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fatzebra_dashboard]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/wraith-4.2.1/templates" />
       </SOURCES>
     </library>
     <library name="wraith (v4.2.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
