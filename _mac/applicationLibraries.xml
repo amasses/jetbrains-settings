@@ -3432,6 +3432,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/akami-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="akami (v1.3.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/akami-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/akami-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="akami (v1.3.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/akami-1.3.1/lib" />
@@ -10338,6 +10346,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v10.0.2, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/byebug-10.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v2.7.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/byebug-2.7.0/lib" />
@@ -15384,6 +15404,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/diff-lcs-1.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/diff-lcs-1.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
@@ -25402,6 +25434,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/gyoku-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="gyoku (v1.3.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/gyoku-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/gyoku-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gyoku (v1.3.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gyoku-1.3.1/lib" />
@@ -27464,6 +27504,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/httpi-2.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="httpi (v2.4.3, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/httpi-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/httpi-2.4.3/lib" />
       </SOURCES>
     </library>
     <library name="httpi (v2.4.3, RVM: ruby-2.3.3) [gem]">
@@ -39390,6 +39438,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/nori-2.6.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="nori (v2.6.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/nori-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/nori-2.6.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/nori-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/nori-2.6.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="nori (v2.6.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nori-2.6.0/lib" />
@@ -47942,6 +48000,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-2.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.2.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-3.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.4.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rspec-3.4.0/lib" />
@@ -48180,6 +48246,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-core-2.8.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-core-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-core-2.8.0/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.2.3, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-core-3.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-core-3.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-core-3.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-core-3.2.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.4.3, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
@@ -48476,6 +48552,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-expectations-2.8.0/features" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.2.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-expectations-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-expectations-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/rspec-expectations-3.4.0/lib" />
@@ -48748,6 +48832,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-mocks-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-mocks-2.8.0/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.2.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-mocks-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-mocks-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.4.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
@@ -49158,6 +49250,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.2.2, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-support-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rspec-support-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.4.1, RVM: ruby-2.2.1 [fatzebra_jabberwocky]) [gem]">
@@ -52200,6 +52300,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_jabberwocky/gems/savon-2.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="savon (v2.12.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/savon-2.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/savon-2.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="savon (v2.12.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/savon-2.12.0/lib" />
@@ -54046,6 +54154,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/socksify-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/socksify-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="socksify (v1.7.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/socksify-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/socksify-1.7.1/lib" />
       </SOURCES>
     </library>
     <library name="socksify (v1.7.1, RVM: ruby-2.3.3) [gem]">
@@ -59582,6 +59700,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fz_paynow/gems/wasabi-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="wasabi (v3.5.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/wasabi-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/wasabi-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="wasabi (v3.5.0, RVM: ruby-2.3.3) [gem]">
