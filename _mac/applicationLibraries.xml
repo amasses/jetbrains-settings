@@ -8096,9 +8096,11 @@
     </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/bcrypt-3.1.12/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
     </library>
@@ -19698,9 +19700,11 @@
     </library>
     <library name="eventmachine (v1.2.5, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/eventmachine-1.2.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/eventmachine-1.2.5/lib" />
       </SOURCES>
     </library>
@@ -23244,9 +23248,11 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ffi-1.9.18/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/ffi-1.9.18/lib" />
       </SOURCES>
     </library>
@@ -27298,9 +27304,11 @@
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/http_parser.rb-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/http_parser.rb-0.6.0/lib" />
       </SOURCES>
     </library>
@@ -31092,9 +31100,11 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
@@ -39298,9 +39308,11 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/nokogiri-1.8.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
@@ -41002,9 +41014,11 @@
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/pg-0.21.0/lib" />
       </SOURCES>
     </library>
@@ -41166,9 +41180,11 @@
     </library>
     <library name="pg_array_parser (v0.0.9, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg_array_parser/0.0.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/pg_array_parser-0.0.9/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg_array_parser/0.0.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/pg_array_parser-0.0.9/lib" />
       </SOURCES>
     </library>
@@ -42656,9 +42672,11 @@
     </library>
     <library name="puma (v3.11.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/puma-3.11.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/puma-3.11.0/lib" />
       </SOURCES>
     </library>
@@ -46166,9 +46184,11 @@
     </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_admin/gems/rb-fsevent-0.10.2/lib" />
       </SOURCES>
     </library>
