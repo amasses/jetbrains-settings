@@ -3626,6 +3626,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.618/spec" />
       </excluded>
     </library>
+    <library name="fat_zebra_models (v0.2.638, rbenv: 2.2.7) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_models-0.2.638/spec" />
+      </excluded>
+    </library>
     <library name="fat_zebra_rubocop (v0.0.3, rbenv: 2.2.7) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.7/lib/ruby/gems/2.2.0/gems/fat_zebra_rubocop-0.0.3/lib" />
