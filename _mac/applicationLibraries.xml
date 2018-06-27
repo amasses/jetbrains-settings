@@ -5080,6 +5080,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/gems/aws-2.10.2/lib" />
       </SOURCES>
     </library>
+    <library name="aws-eventstream (v1.0.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-eventstream-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-eventstream-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-eventstream (v1.0.1, RVM: ruby-2.4.2 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/aws-eventstream-1.0.1/lib" />
@@ -5166,6 +5174,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/aws-partitions-1.86.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.91.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-partitions-1.91.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-partitions-1.91.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-partitions (v1.91.0, RVM: ruby-2.4.2 [fatzebra_jabberwocky]) [gem]">
@@ -6100,6 +6116,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/aws-sdk-core-3.20.2/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.21.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-sdk-core-3.21.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-sdk-core-3.21.2/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v3.21.2, RVM: ruby-2.4.2 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/aws-sdk-core-3.21.2/lib" />
@@ -6362,6 +6386,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/aws-sdk-ec2-1.33.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.35.0, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-sdk-ec2-1.35.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/aws-sdk-ec2-1.35.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ec2 (v1.9.0, RVM: ruby-2.2.7 [fatzebra_admin]) [gem]">
@@ -39942,6 +39974,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/net-ssh-4.2.0/support" />
       </SOURCES>
     </library>
+    <library name="net-ssh (v5.0.1, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/net-ssh-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/net-ssh-5.0.1/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/net-ssh-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/net-ssh-5.0.1/support" />
+      </SOURCES>
+    </library>
     <library name="net-ssh (v5.0.2, RVM: ruby-2.4.2 [fatzebra_jabberwocky]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/net-ssh-5.0.2/lib" />
@@ -54582,6 +54624,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/s3_backup-0.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="s3_backup (v0.0.7, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/s3_backup-0.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/s3_backup-0.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="safe_flipper (v0.1.0@1087df, RVM: ruby-2.2.1 [fatzebra_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@fatzebra_admin/bundler/gems/safe-flipper-1087dfaa089a/lib" />
@@ -58476,6 +58526,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fatzebra_jabberwocky/gems/sprockets-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.7.2, RVM: ruby-2.2.7 [fatzebra_fatapi]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@fatzebra_fatapi/gems/sprockets-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="sprockets (v3.7.2, RVM: ruby-2.4.2 [fatzebra_jabberwocky]) [gem]">
