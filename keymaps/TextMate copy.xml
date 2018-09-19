@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
