@@ -4129,11 +4129,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bcrypt-ruby-3.0.1/spec" />
@@ -4368,12 +4370,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/binding_of_caller-0.7.2/test" />
@@ -5452,11 +5456,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/byebug-9.1.0/lib" />
@@ -8797,10 +8803,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -29022,11 +29030,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rb-fsevent-0.10.2/lib" />
@@ -31879,6 +31889,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/0.15.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/ext" />
@@ -31887,6 +31898,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/0.15.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/ruby-prof-0.15.8/ext" />
@@ -38949,10 +38961,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
