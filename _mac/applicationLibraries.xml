@@ -1065,6 +1065,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-eventstream-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-eventstream (v1.0.3, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-eventstream-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-eventstream-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-eventstream (v1.0.3, RVM: ruby-2.4.6 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1107,6 +1118,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-partitions-1.162.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.168.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-partitions-1.168.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-partitions-1.168.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-partitions (v1.70.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
@@ -1197,6 +1219,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-sdk-core-3.52.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.54.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-core-3.54.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-core-3.54.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ec2 (v1.29.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1228,6 +1261,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-sdk-ec2-1.44.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.21.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-kms-1.21.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-kms-1.21.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.5.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
@@ -1274,6 +1318,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-sdk-s3-1.14.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.40.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-s3-1.40.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-s3-1.40.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.8.2, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1294,6 +1349,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-sdk-ssm-1.45.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.47.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-ssm-1.47.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sdk-ssm-1.47.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
@@ -1327,6 +1393,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/aws-sigv4-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.1.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sigv4-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/aws-sigv4-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.1.0, RVM: ruby-2.4.6 [fatzebra_crm]) [gem]" type="rubylib">
@@ -5818,6 +5895,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.3.1/test" />
       </excluded>
     </library>
+    <library name="gala (v0.4.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/gala-0.4.0/.circleci" />
+      </excluded>
+    </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6473,6 +6569,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/highline-1.6.21/site" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/highline-1.6.21/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/highline-1.6.21/examples" />
+      </excluded>
+    </library>
+    <library name="hkdf (v0.3.0, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/hkdf-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/hkdf-0.3.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/hkdf-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/hkdf-0.3.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/hkdf-0.3.0/spec" />
       </excluded>
     </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
@@ -7668,6 +7780,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.1/test" />
+      </excluded>
+    </library>
+    <library name="macaddr (v1.7.2, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/macaddr-1.7.2/test" />
       </excluded>
     </library>
     <library name="mail (v2.7.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
@@ -9427,6 +9555,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="openssl (v2.1.2, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/ext" />
+      </excluded>
+    </library>
     <library name="parallel (v1.12.1, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9459,6 +9603,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/parallel-1.17.0/lib" />
       </SOURCES>
+    </library>
+    <library name="parameter_store (v1.0.15, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/parameter_store-1.0.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/parameter_store-1.0.15/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/parameter_store-1.0.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/parameter_store-1.0.15/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/parameter_store-1.0.15/spec" />
+      </excluded>
     </library>
     <library name="paranoia (v2.1.5, RVM: ruby-2.4.6 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
@@ -10365,6 +10525,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/quiet_assets-1.1.0/test" />
+      </excluded>
+    </library>
+    <library name="r2d2 (v1.0.12, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/r2d2-1.0.12/.buildkite" />
       </excluded>
     </library>
     <library name="rack (v1.6.11, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
