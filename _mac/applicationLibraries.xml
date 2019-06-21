@@ -9560,10 +9560,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/openssl/2.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/openssl/2.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_api/gems/openssl-2.1.2/lib" />
       </SOURCES>
