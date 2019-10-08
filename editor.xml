@@ -1,4 +1,19 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="3000" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+    <option name="AUTOCOMPLETE_COMMON_PREFIX" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code" />
@@ -7,8 +22,5 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
