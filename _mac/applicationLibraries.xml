@@ -1898,6 +1898,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-ssm-1.47.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ssm (v1.49.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-ssm-1.49.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-ssm-1.49.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ssm (v1.56.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5611,6 +5622,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-configurable-0.8.3/rakelib" />
       </excluded>
     </library>
+    <library name="dry-configurable (v0.8.3, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-configurable-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-configurable-0.8.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-configurable-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-configurable-0.8.3/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-configurable-0.8.3/rakelib" />
+      </excluded>
+    </library>
     <library name="dry-configurable (v0.8.3, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5722,6 +5749,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-container-0.7.1/rakelib" />
       </excluded>
     </library>
+    <library name="dry-container (v0.7.2, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-container-0.7.2/rakelib" />
+      </excluded>
+    </library>
     <library name="dry-container (v0.7.2, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5772,6 +5818,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-core-0.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-core (v0.4.9, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-core-0.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-core-0.4.9/lib" />
       </SOURCES>
     </library>
     <library name="dry-core (v0.4.9, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -5831,6 +5888,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-equalizer-0.2.2/spec" />
+      </excluded>
+    </library>
+    <library name="dry-equalizer (v0.2.2, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-equalizer-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-equalizer-0.2.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-equalizer-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-equalizer-0.2.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-equalizer-0.2.2/spec" />
       </excluded>
     </library>
     <library name="dry-equalizer (v0.2.2, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -6058,6 +6131,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-types-0.12.3/benchmarks" />
       </excluded>
     </library>
+    <library name="dry-types (v0.12.3, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-types-0.12.3/benchmarks" />
+      </excluded>
+    </library>
     <library name="dry-types (v0.12.3, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6159,6 +6251,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-validation-0.11.2/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-validation-0.11.2/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_crm/gems/dry-validation-0.11.2/benchmarks" />
+      </excluded>
+    </library>
+    <library name="dry-validation (v0.11.2, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/dry-validation-0.11.2/benchmarks" />
       </excluded>
     </library>
     <library name="dry-validation (v0.11.2, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -14021,6 +14141,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/parameter_store-1.0.32/spec" />
       </excluded>
     </library>
+    <library name="parameter_store (v1.0.48, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/parameter_store-1.0.48/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/parameter_store-1.0.48/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/parameter_store-1.0.48/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/parameter_store-1.0.48/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/parameter_store-1.0.48/spec" />
+      </excluded>
+    </library>
     <library name="paranoia (v2.1.5, RVM: ruby-2.4.6 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15099,6 +15235,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/public_suffix-3.1.1/test" />
       </excluded>
     </library>
     <library name="public_suffix (v4.0.1, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
