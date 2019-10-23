@@ -4335,6 +4335,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crass (v1.0.5, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="credy (v0.2.1, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11371,6 +11382,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.0/benchmark" />
       </excluded>
     </library>
+    <library name="loofah (v2.3.1, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/loofah-2.3.1/benchmark" />
+      </excluded>
+    </library>
     <library name="lumberjack (v1.0.13, RVM: ruby-2.4.6 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16098,6 +16128,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.2.0/test" />
+      </excluded>
+    </library>
+    <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rails-html-sanitizer-1.3.0/test" />
       </excluded>
     </library>
     <library name="rails-observers (v0.1.5, RVM: ruby-2.4.6 [fatzebra_api]) [gem]" type="rubylib">
