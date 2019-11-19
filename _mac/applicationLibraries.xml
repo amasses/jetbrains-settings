@@ -11295,14 +11295,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/lib" />
@@ -11319,12 +11317,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/lib" />
