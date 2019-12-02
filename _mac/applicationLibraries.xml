@@ -1285,6 +1285,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_paynow/gems/aws-partitions-1.227.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.240.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-partitions-1.240.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-partitions-1.240.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.70.0, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1305,6 +1316,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_paynow/gems/aws-partitions-1.70.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-acm (v1.26.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-acm-1.26.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-acm-1.26.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudfront (v1.22.1, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -1371,6 +1393,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_paynow/gems/aws-sdk-core-3.70.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.78.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-core-3.78.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-core-3.78.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ec2 (v1.110.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -11271,14 +11304,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.4/lib" />
@@ -11310,6 +11341,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.4/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.5, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.5, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
@@ -17724,6 +17779,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/terminal-notifier-2.0.0/bin" />
+      </excluded>
+    </library>
+    <library name="test-prof (v0.10.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/test-prof-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/test-prof-0.10.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/test-prof-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/test-prof-0.10.1/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/test-prof-0.10.1/assets" />
       </excluded>
     </library>
     <library name="test-unit (v3.0.8, RVM: ruby-2.2.7 [fz_paynow]) [gem]" type="rubylib">
