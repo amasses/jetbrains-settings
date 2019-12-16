@@ -12832,6 +12832,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.10.0.pre@91bc14, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-core-91bc14f49b1d/benchmarks" />
+      </excluded>
+    </library>
     <library name="rspec-core (v3.5.4, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12912,6 +12945,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rspec-core-3.9.0/exe" />
       </excluded>
     </library>
+    <library name="rspec-expectations (v3.10.0.pre@95d969, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-expectations-95d9693923ef/benchmarks" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.5.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12966,6 +13029,39 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rspec-expectations-3.9.0/lib" />
       </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.10.0.pre@fa3b6a, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-mocks-fa3b6a06b63d/benchmarks" />
+      </excluded>
     </library>
     <library name="rspec-mocks (v3.5.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
@@ -13065,6 +13161,73 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rspec-rails-3.9.0/lib" />
       </SOURCES>
+    </library>
+    <library name="rspec-rails (v4.0.0.pre@7d68eb, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/rfcs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/example_app_generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/rfcs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/example_app_generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/rfcs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-rails-7d68eb2306f3/example_app_generator" />
+      </excluded>
+    </library>
+    <library name="rspec-support (v3.10.0.pre@c1d3ce, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/bundler/gems/rspec-support-c1d3ce25ea55/benchmarks" />
+      </excluded>
     </library>
     <library name="rspec-support (v3.5.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
