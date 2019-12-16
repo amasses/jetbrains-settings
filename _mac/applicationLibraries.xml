@@ -1625,11 +1625,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/bcrypt-3.1.13/spec" />
@@ -2180,11 +2182,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/byebug-11.0.1/lib" />
@@ -5599,11 +5603,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/ffi-1.11.3/samples" />
@@ -7124,10 +7130,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -7313,6 +7321,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/data" />
@@ -7322,6 +7331,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/json-1.8.6/data" />
@@ -9394,6 +9404,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/spec" />
@@ -9401,6 +9412,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nio4r-2.5.2/spec" />
@@ -9515,12 +9527,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogiri-1.10.7/lib" />
@@ -9641,11 +9655,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogumbo/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/gumbo-parser" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogumbo/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/nokogumbo-2.0.2/gumbo-parser" />
@@ -10227,11 +10243,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/pg-0.21.0/spec" />
@@ -10923,6 +10941,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/4.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/lib" />
@@ -10930,6 +10949,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/4.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/puma-4.3.1/lib" />
@@ -11928,11 +11948,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rb-fsevent-0.10.3/lib" />
@@ -16533,10 +16555,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
