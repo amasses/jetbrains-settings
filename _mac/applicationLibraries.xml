@@ -72,6 +72,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actioncable-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actioncable-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actioncable-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actioncable-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actioncable-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailbox (v6.0.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -112,6 +125,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2/config" />
+      </excluded>
+    </library>
+    <library name="actionmailbox (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailbox-6.0.2.1/config" />
       </excluded>
     </library>
     <library name="actionmailer (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -191,6 +225,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailer-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailer-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionmailer-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -268,6 +313,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionpack-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionpack-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionpack-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actiontext (v6.0.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -302,6 +358,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2/db" />
+      </excluded>
+    </library>
+    <library name="actiontext (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actiontext-6.0.2.1/db" />
       </excluded>
     </library>
     <library name="actionview (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -381,6 +455,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionview-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionview-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/actionview-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -458,6 +543,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activejob-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activejob-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activejob-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -533,6 +629,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activemodel-6.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activemodel-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activemodel-6.0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -645,6 +752,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activerecord-6.0.2.1/examples" />
       </excluded>
     </library>
     <library name="activerecord-import (v0.22.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -869,6 +992,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2/config" />
       </excluded>
     </library>
+    <library name="activestorage (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activestorage-6.0.2.1/config" />
+      </excluded>
+    </library>
     <library name="activesupport (v4.2.11.1, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -944,6 +1088,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activesupport-6.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activesupport-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activesupport-6.0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.2, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -1810,6 +1965,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-partitions-1.256.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.258.0, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-partitions-1.258.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-partitions-1.258.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.70.0, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2182,6 +2348,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-sdk-ssm-1.66.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.68.0, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-sdk-ssm-1.68.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/aws-sdk-ssm-1.68.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
@@ -7830,6 +8007,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1223/spec" />
       </excluded>
     </library>
+    <library name="fat_zebra_models (v2.0.1236, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/fat_zebra_models-2.0.1236/spec" />
+      </excluded>
+    </library>
     <library name="fat_zebra_rubocop (v0.1.16, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7899,13 +8097,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/ffi-1.11.1/samples" />
@@ -10035,12 +10231,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -13373,14 +13567,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/nokogiri-1.10.5/lib" />
@@ -15633,6 +15825,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.7/example" />
       </excluded>
     </library>
+    <library name="rack (v2.0.8, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-2.0.8/example" />
+      </excluded>
+    </library>
     <library name="rack-contrib (v1.8.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15855,6 +16072,13 @@
       <SOURCES />
     </library>
     <library name="rails (v6.0.2, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -16344,6 +16568,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.0.2.1, RVM: ruby-2.6.5 [fatzebra_paynow]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/railties-6.0.2.1/exe" />
       </excluded>
     </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
