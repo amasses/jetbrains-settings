@@ -27568,6 +27568,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rate_limit-0.1.33/.buildkite" />
       </excluded>
     </library>
+    <library name="rate_limit (v0.1.33, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/rate_limit-0.1.33/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/rate_limit-0.1.33/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/rate_limit-0.1.33/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/rate_limit-0.1.33/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/rate_limit-0.1.33/.buildkite" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
