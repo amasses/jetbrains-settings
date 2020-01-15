@@ -2485,12 +2485,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/aead/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/aead/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/bundler/gems/aead-340e7718d8bd/.git" />
@@ -4839,11 +4841,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bcrypt-3.1.11/spec" />
@@ -5995,6 +5999,49 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7/gems/bundler-2.0.2/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.1.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.7/lib/ruby/site_ruby/2.4.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
     <library name="bundler (v2.1.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6489,11 +6536,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/byebug/10.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/byebug/10.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/byebug-10.0.0/lib" />
@@ -14661,11 +14710,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/ffi-1.9.25/samples" />
@@ -18985,6 +19036,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/data" />
@@ -18994,6 +19046,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/json-1.8.6/data" />
@@ -21704,6 +21757,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.3, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-3.3/test" />
+      </excluded>
+    </library>
     <library name="mime-types (v3.3, RVM: ruby-2.4.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21801,6 +21870,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.0331/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.0331/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.1009, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
     <library name="mime-types-data (v3.2019.1009, RVM: ruby-2.4.7) [gem]" type="rubylib">
@@ -24545,12 +24633,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/nokogiri-1.10.5/lib" />
@@ -25472,10 +25562,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/openssl/2.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/openssl-2.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/openssl-2.1.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/openssl/2.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/openssl-2.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/openssl-2.1.2/lib" />
       </SOURCES>
@@ -26239,11 +26331,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/pg-0.21.0/spec" />
@@ -27865,6 +27959,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/puma/3.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/lib" />
@@ -27872,6 +27967,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/puma/3.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/puma-3.12.2/lib" />
@@ -28221,6 +28317,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-1.6.11/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-1.6.11/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/rack-1.6.11/example" />
+      </excluded>
+    </library>
+    <library name="rack (v1.6.12, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/example" />
       </excluded>
     </library>
     <library name="rack (v1.6.5, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -36690,12 +36811,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/scrypt/3.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/autotest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/scrypt/3.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/scrypt-3.0.6/spec" />
