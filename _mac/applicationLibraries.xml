@@ -5887,6 +5887,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/bundler-1.17.3/man" />
+      </excluded>
+    </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13114,6 +13133,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/excon-0.67.0/data" />
       </excluded>
     </library>
+    <library name="excon (v0.71.1, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/excon-0.71.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/excon-0.71.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/excon-0.71.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/excon-0.71.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/excon-0.71.1/data" />
+      </excluded>
+    </library>
     <library name="excon (v0.71.1, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14398,6 +14433,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/fat_zebra_models-1.0.1223/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/fat_zebra_models-1.0.1223/spec" />
+      </excluded>
+    </library>
+    <library name="fat_zebra_models (v1.0.1249, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/fat_zebra_models-1.0.1249/spec" />
       </excluded>
     </library>
     <library name="fat_zebra_models (v2.0.1236, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
@@ -22835,6 +22891,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/monetize-1.9.2/spec" />
       </excluded>
     </library>
+    <library name="monetize (v1.9.3, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/monetize-1.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/monetize-1.9.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/monetize-1.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/monetize-1.9.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/monetize-1.9.3/spec" />
+      </excluded>
+    </library>
     <library name="monetize (v1.9.3, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -28354,6 +28426,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/rack-1.6.12/example" />
+      </excluded>
+    </library>
+    <library name="rack (v1.6.12, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_crm/gems/rack-1.6.12/example" />
       </excluded>
     </library>
     <library name="rack (v1.6.5, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
