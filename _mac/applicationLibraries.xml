@@ -2342,6 +2342,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_paynow/gems/activesupport-5.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.4.1, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/activesupport-5.2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/activesupport-5.2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.2.4.1, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20205,6 +20216,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/i18n-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.8.2, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/i18n-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/i18n-1.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n_data (v0.7.0, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25229,6 +25251,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.13.0/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.14.0, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/minitest-5.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/minitest-5.14.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/minitest-5.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/minitest-5.14.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/minitest-5.14.0/test" />
+      </excluded>
+    </library>
     <library name="mock_redis (v0.22.0, RVM: ruby-2.4.7 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27826,6 +27864,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </excluded>
+    </library>
+    <library name="nokogiri-xmlsec-instructure (v0.9.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
       </excluded>
     </library>
     <library name="nokogumbo (v1.5.0, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
@@ -33345,6 +33402,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="rake (v10.5.0, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
     <library name="rake (v10.5.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
@@ -45171,6 +45253,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
+    <library name="tzinfo (v1.2.6, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/tzinfo-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/tzinfo-1.2.6/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/tzinfo-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/tzinfo-1.2.6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/tzinfo-1.2.6/test" />
+      </excluded>
+    </library>
     <library name="tzinfo (v1.2.6, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -47547,6 +47645,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/yell-2.2.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/yell-2.2.0/examples" />
       </excluded>
+    </library>
+    <library name="zeitwerk (v2.2.2, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/zeitwerk-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/zeitwerk-2.2.2/lib" />
+      </SOURCES>
     </library>
     <library name="zeitwerk (v2.2.2, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
