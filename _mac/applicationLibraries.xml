@@ -6793,25 +6793,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.0/man" />
       </excluded>
     </library>
-    <library name="bundler (v2.1.4, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/bundler-2.1.4/man" />
-      </excluded>
-    </library>
     <library name="bundler (v2.1.4, RVM: ruby-2.6.5 [fatzebra_crm]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27826,6 +27807,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-happymapper-0.8.1/spec" />
       </excluded>
     </library>
+    <library name="nokogiri-xmlsec-instructure (v0.9.6, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri-xmlsec-instructure/0.9.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri-xmlsec-instructure/0.9.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
+      </excluded>
+    </library>
     <library name="nokogumbo (v1.5.0, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -40277,6 +40279,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/safe_yaml-1.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/safe_yaml-1.0.5/spec" />
+      </excluded>
+    </library>
+    <library name="saml2 (v3.0.8, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/schemas" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/schemas" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/saml2-3.0.8/schemas" />
       </excluded>
     </library>
     <library name="sanitize (v4.6.4, RVM: ruby-2.4.7 [fatzebra_paynow]) [gem]" type="rubylib">
