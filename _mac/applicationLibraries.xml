@@ -6823,6 +6823,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@fatzebra_crm/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.1.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundler-2.1.4/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.6.0, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -41327,6 +41346,28 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/shoulda-3.5.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="shoulda (v3.6.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shoulda-3.6.0/gemfiles" />
       </excluded>
     </library>
     <library name="shoulda-context (v1.2.2, RVM: ruby-2.4.6 [fatzebra_chameleon]) [gem]" type="rubylib">
