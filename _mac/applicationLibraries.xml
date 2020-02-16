@@ -4450,6 +4450,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.6@fatzebra_chameleon/gems/aws-sdk-ec2-1.66.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-firehose (v1.17.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-firehose-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-firehose-1.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesis (v1.16.0, RVM: ruby-2.4.7 [fatzebra_api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-kinesis-1.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.7@fatzebra_api/gems/aws-sdk-kinesis-1.16.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-kms (v1.13.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
