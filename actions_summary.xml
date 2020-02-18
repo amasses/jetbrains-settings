@@ -157,8 +157,8 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1582008326095" />
-              <option name="times" value="5" />
+              <option name="last" value="1582018415931" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -183,6 +183,14 @@
             <ActionSummary>
               <option name="last" value="1582009104121" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorTab">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582018607886" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,16 +221,16 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582008909580" />
-              <option name="times" value="2" />
+              <option name="last" value="1582018411143" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582003933338" />
-              <option name="times" value="1" />
+              <option name="last" value="1582018586479" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
