@@ -93,16 +93,16 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1582066685333" />
-              <option name="times" value="82" />
+              <option name="last" value="1582090173127" />
+              <option name="times" value="83" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDownWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021194449" />
-              <option name="times" value="16" />
+              <option name="last" value="1582090175063" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,16 +157,16 @@
         <entry key="EditorLineEndWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582066686774" />
-              <option name="times" value="11" />
+              <option name="last" value="1582090175536" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582069906746" />
-              <option name="times" value="23" />
+              <option name="last" value="1582090174231" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
