@@ -469,8 +469,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582238055302" />
-              <option name="times" value="2" />
+              <option name="last" value="1582611848964" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -487,6 +487,14 @@
             <ActionSummary>
               <option name="last" value="1582259183823" />
               <option name="times" value="25" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.vcs.changes.ChangesViewManager$ChangesViewToolWindowPanel$ToggleDetailsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582611929409" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
