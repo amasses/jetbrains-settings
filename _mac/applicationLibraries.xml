@@ -6891,7 +6891,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/data" />
@@ -6901,7 +6900,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-1.8.6/data" />
@@ -6952,6 +6950,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/java" />
@@ -6961,6 +6960,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/json-2.3.0/java" />
@@ -8615,14 +8615,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.8/lib" />
@@ -8639,12 +8637,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-1.10.9/lib" />
