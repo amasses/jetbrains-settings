@@ -21054,6 +21054,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-batch-0.1.6/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-pro (v4.0.3, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-pro-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-pro-4.0.3/web" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-pro-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-pro-4.0.3/web" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sidekiq-pro-4.0.3/web" />
+      </excluded>
+    </library>
     <library name="sidekiq-pro (v5.0.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
