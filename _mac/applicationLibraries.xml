@@ -22947,6 +22947,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/wash_out-78dd9a59a6a6/gemfiles" />
       </excluded>
     </library>
+    <library name="wash_out (v0.12.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/wash_out-0.12.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="web-console (v2.3.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
