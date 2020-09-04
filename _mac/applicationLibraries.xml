@@ -5040,6 +5040,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bullet-6.1.0/tasks" />
       </excluded>
     </library>
+    <library name="bump (v0.9.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bump-0.9.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bump-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bump-0.9.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bump-0.9.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bump-0.9.0/bin" />
+      </excluded>
+    </library>
     <library name="bundle-audit (v0.1.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21292,6 +21308,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.5/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.5/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.5/.github" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v4.0.6, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/public_suffix-4.0.6/.github" />
       </excluded>
     </library>
     <library name="puma (v3.12.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
