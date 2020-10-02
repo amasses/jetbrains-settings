@@ -35023,6 +35023,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webpacker-3.5.5/gemfiles" />
       </excluded>
     </library>
+    <library name="webpacker (v3.6.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/webpacker-3.6.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="webpacker (v4.0.7, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
