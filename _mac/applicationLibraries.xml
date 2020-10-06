@@ -3613,6 +3613,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-partitions-1.366.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-athena (v1.33.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-athena-1.33.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-athena-1.33.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudfront (v1.25.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3710,6 +3721,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-core-3.105.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.109.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.109.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.109.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.37.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
