@@ -3613,6 +3613,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-partitions-1.366.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.388.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-partitions-1.388.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-partitions-1.388.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-athena (v1.33.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3732,6 +3743,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.109.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.109.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-core-3.109.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-core-3.109.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.37.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -4084,6 +4106,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-kms-1.37.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.39.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-kms-1.39.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-kms-1.39.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lambda (v1.42.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -4502,6 +4535,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-ssm-1.89.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.92.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-ssm-1.92.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-ssm-1.92.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.95.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-ssm-1.95.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/aws-sdk-ssm-1.95.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.1.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -5287,6 +5342,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bourbon-6.0.0/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bourbon-6.0.0/.github" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bourbon-6.0.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="brakeman (v4.10.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bundle" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/brakeman-4.10.0/bundle" />
       </excluded>
     </library>
     <library name="brakeman (v4.3.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -12224,6 +12298,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1686/db" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1686/spec" />
+      </excluded>
+    </library>
+    <library name="fat_zebra_models (v1.0.1702, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/fat_zebra_models-1.0.1702/spec" />
       </excluded>
     </library>
     <library name="fat_zebra_models (v2.0.1311, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -19373,6 +19468,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nested-hstore-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="nested-hstore (v0.1.2@10f8de, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/bundler/gems/nested-hstore-10f8ded5d0c5/gemfiles" />
+      </excluded>
+    </library>
     <library name="nested-hstore (v0.1.2@36385d, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20135,7 +20252,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/spec" />
@@ -20144,7 +20260,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nio4r-2.5.3/spec" />
@@ -26418,6 +26533,37 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rollbar-3.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="rollbar (v3.0.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/rollbar-3.0.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="rotp (v2.1.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -32525,6 +32671,47 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/socksify-1.7.1/doc" />
       </excluded>
     </library>
+    <library name="sorbet (v0.5.5937, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-0.5.5937/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-0.5.5937/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-0.5.5937/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-0.5.5937/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-0.5.5937/bin" />
+      </excluded>
+    </library>
+    <library name="sorbet-runtime (v0.5.5937, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-runtime-0.5.5937/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-runtime-0.5.5937/lib" />
+      </SOURCES>
+    </library>
+    <library name="sorbet-static-0.5.5937-universal-darwin (v0.5.5937, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-static-0.5.5937-universal-darwin-19/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-static-0.5.5937-universal-darwin-19/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/sorbet-static-0.5.5937-universal-darwin-19/libexec" />
+      </excluded>
+    </library>
     <library name="sort_alphabetical (v1.0.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -35842,6 +36029,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/zeitwerk-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.4.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/zeitwerk-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/zeitwerk-2.4.1/lib" />
       </SOURCES>
     </library>
     <library name="zip_money (v0.0.25, chruby: ruby-2.6.5) [gem]" type="rubylib">
