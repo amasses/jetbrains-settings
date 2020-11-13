@@ -20604,6 +20604,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
       </excluded>
     </library>
+    <library name="nokogiri-xmlsec-instructure (v0.9.7, chruby: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/nokogiri-xmlsec-instructure-0.9.7/spec" />
+      </excluded>
+    </library>
     <library name="nokogumbo (v2.0.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
