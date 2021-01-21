@@ -3183,6 +3183,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.27/.buildkite" />
       </excluded>
     </library>
+    <library name="amzn_trace_id (v0.1.30, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.30/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.30/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.30/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.30/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/amzn_trace_id-0.1.30/.buildkite" />
+      </excluded>
+    </library>
     <library name="amzn_trace_id (v0.1.5, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25040,6 +25056,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.10.9/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.11.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0-x86_64-darwin/ext" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.11.0.rc4, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -41145,6 +41180,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/surcharge-0.1.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="surcharge (v0.1.23, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/surcharge-0.1.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/surcharge-0.1.23/lib" />
       </SOURCES>
     </library>
     <library name="surcharge (v0.1.8, chruby: ruby-2.6.5) [gem]" type="rubylib">
