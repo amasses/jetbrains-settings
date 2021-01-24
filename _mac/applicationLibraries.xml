@@ -25110,6 +25110,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/ext" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.11.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
