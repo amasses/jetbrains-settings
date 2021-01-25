@@ -20484,6 +20484,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.3.1/references" />
       </excluded>
     </library>
+    <library name="json (v2.4.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/json-2.4.1/tests" />
+      </excluded>
+    </library>
     <library name="jsonapi-renderer (v0.2.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25908,6 +25927,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ox-2.13.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ox-2.13.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pagerduty (v3.0.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/pagerduty-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/pagerduty-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="paint (v2.2.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
