@@ -3558,6 +3558,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/attr_required-1.0.1/spec" />
       </excluded>
     </library>
+    <library name="audited (v4.10.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/audited-4.10.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="audited (v4.2.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4200,6 +4222,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.414.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.421.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.421.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.421.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-athena (v1.32.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4418,6 +4451,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.110.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.111.2, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.111.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-core-3.111.2/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.37.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -4882,6 +4926,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-kms-1.40.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.41.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-kms-1.41.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-kms-1.41.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-lambda (v1.42.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5298,6 +5353,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.101.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.103.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.103.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.103.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ssm (v1.33.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -11995,6 +12061,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-logic-1.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="dry-logic (v1.1.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-logic-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-logic-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-monads (v1.3.5, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12164,6 +12241,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.5.6/config" />
       </excluded>
     </library>
+    <library name="dry-schema (v1.6.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.6.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-schema-1.6.0/config" />
+      </excluded>
+    </library>
     <library name="dry-struct (v0.4.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12244,6 +12337,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-struct-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-struct (v1.4.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-struct-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-struct-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="dry-types (v0.12.3, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -12342,6 +12446,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-types-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-types (v1.5.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-types-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dry-types-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="dry-validation (v0.11.2, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -23340,6 +23455,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.3/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.3/config" />
+      </excluded>
+    </library>
+    <library name="money-rails (v1.13.4, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/money-rails-1.13.4/config" />
       </excluded>
     </library>
     <library name="msgpack (v1.3.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
