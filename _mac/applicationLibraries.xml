@@ -4233,6 +4233,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.421.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.422.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.422.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.422.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-athena (v1.32.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9112,6 +9123,23 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.7/lib" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.1.8, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/concurrent-ruby-1.1.8/lib" />
       </excluded>
     </library>
     <library name="config (v1.7.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -21642,6 +21670,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/loofah-2.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.9.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/loofah-2.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/loofah-2.9.0/lib" />
       </SOURCES>
     </library>
     <library name="lumberjack (v1.0.13, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -41878,6 +41917,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.0.1/bin" />
+      </excluded>
+    </library>
+    <library name="thor (v1.1.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/thor-1.1.0/bin" />
       </excluded>
     </library>
     <library name="thread_safe (v0.3.6, chruby: ruby-2.6.5) [gem]" type="rubylib">
