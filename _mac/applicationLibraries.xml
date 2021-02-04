@@ -5940,6 +5940,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.166/.buildkite" />
       </excluded>
     </library>
+    <library name="barclaycard-base24 (v0.1.175, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/barclaycard-base24-0.1.175/.buildkite" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.11, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10548,6 +10567,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.62/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.62/.buildkite" />
+      </excluded>
+    </library>
+    <library name="dci (v0.1.79, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/dci-0.1.79/.buildkite" />
       </excluded>
     </library>
     <library name="debug_inspector (v0.0.3, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -16028,6 +16066,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.179/res" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.179/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.179/.buildkite" />
+      </excluded>
+    </library>
+    <library name="fdi_xtp (v1.1.194, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.194/.buildkite" />
       </excluded>
     </library>
     <library name="fdi_xtp (v1.1.61, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -42733,6 +42793,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/tzinfo-1.2.8/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.8, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/tzinfo-1.2.8/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/tzinfo-1.2.8/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/tzinfo-1.2.8/test" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.9, chruby: ruby-2.7.1) [gem]" type="rubylib">
