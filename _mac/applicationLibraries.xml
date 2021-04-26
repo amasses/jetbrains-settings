@@ -37143,6 +37143,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.12.1/config" />
       </excluded>
     </library>
+    <library name="rubocop (v1.13.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-1.13.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop (v1.7.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -37327,6 +37349,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.10.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-performance (v1.11.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.11.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.11.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/rubocop-performance-1.11.0/config" />
       </excluded>
     </library>
     <library name="rubocop-performance (v1.4.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
