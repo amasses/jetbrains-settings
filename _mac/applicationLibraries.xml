@@ -22896,6 +22896,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mastercard-client-encryption-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="mastercard-client-encryption (v1.0.3, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mastercard-client-encryption-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mastercard-client-encryption-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mastercard_api_core (v1.4.13, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
