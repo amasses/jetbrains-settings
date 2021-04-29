@@ -16405,6 +16405,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.14/.buildkite" />
       </excluded>
     </library>
+    <library name="fat_zebra_rollbar (v0.1.18, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.18/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.18/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.18/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.18/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_rollbar-0.1.18/.buildkite" />
+      </excluded>
+    </library>
     <library name="fat_zebra_rubocop (v0.1.16, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
