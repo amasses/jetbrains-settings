@@ -20037,6 +20037,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/spec" />
@@ -20044,6 +20045,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/spec" />
