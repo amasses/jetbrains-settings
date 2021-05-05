@@ -16681,6 +16681,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.382/.buildkite" />
       </excluded>
     </library>
+    <library name="fd-base24 (v0.1.397, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fd-base24-0.1.397/.buildkite" />
+      </excluded>
+    </library>
     <library name="fdi_xtp (v1.1.122, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
