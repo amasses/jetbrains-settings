@@ -26383,6 +26383,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/spec" />
@@ -26391,6 +26392,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.7/spec" />
@@ -26643,11 +26645,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
