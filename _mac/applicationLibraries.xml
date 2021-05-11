@@ -16938,6 +16938,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.202/.buildkite" />
       </excluded>
     </library>
+    <library name="fdi_xtp (v1.1.207, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/res" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fdi_xtp-1.1.207/.buildkite" />
+      </excluded>
+    </library>
     <library name="fdi_xtp (v1.1.61, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
