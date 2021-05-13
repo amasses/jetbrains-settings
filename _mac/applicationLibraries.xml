@@ -4685,6 +4685,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.451.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.455.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.455.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-partitions-1.455.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-athena (v1.32.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5994,6 +6005,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.108.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ssm (v1.110.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.110.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/aws-sdk-ssm-1.110.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ssm (v1.33.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6934,6 +6956,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.5/gems/better_errors-2.8.3/gemfiles" />
+      </excluded>
+    </library>
+    <library name="better_errors (v2.9.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/better_errors-2.9.1/gemfiles" />
       </excluded>
     </library>
     <library name="bigdecimal (v1.4.1, chruby: ruby-2.6.5) [gem]" type="rubylib">
@@ -16463,6 +16504,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1769/spec" />
       </excluded>
     </library>
+    <library name="fat_zebra_models (v2.0.1780, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/spec" />
+      </excluded>
+    </library>
     <library name="fat_zebra_rollbar (v0.1.11, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22413,6 +22475,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.2.1/bin" />
+      </excluded>
+    </library>
+    <library name="listen (v3.5.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.5.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.5.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.5.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/listen-3.5.1/bin" />
       </excluded>
     </library>
     <library name="little-plugger (v1.1.4, chruby: ruby-2.6.5) [gem]" type="rubylib">
