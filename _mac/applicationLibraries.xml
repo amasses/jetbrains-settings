@@ -11880,6 +11880,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.4.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.4.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.4.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/docile-1.4.0/.github" />
+      </excluded>
+    </library>
     <library name="dogapi (v1.10.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20266,6 +20282,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/spec" />
@@ -20273,6 +20290,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/http_parser.rb-0.6.0/spec" />
@@ -26453,7 +26471,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/spec" />
@@ -26462,7 +26479,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nio4r-2.5.5/spec" />
@@ -26724,13 +26740,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
@@ -42268,6 +42282,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/simplecov_json_formatter-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="simplecov_json_formatter (v0.1.3, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/simplecov_json_formatter-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/simplecov_json_formatter-0.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v1.2.8, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45371,6 +45396,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.23/.buildkite" />
       </excluded>
     </library>
+    <library name="visa_checkout (v1.0.35, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.35/.buildkite" />
+      </excluded>
+    </library>
     <library name="warden (v1.2.7, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45826,6 +45873,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.12.0/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.12.0/.github" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.12.0/minitest" />
+      </excluded>
+    </library>
+    <library name="webmock (v3.13.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/webmock-3.13.0/minitest" />
       </excluded>
     </library>
     <library name="webmock (v3.3.0, chruby: ruby-2.6.5) [gem]" type="rubylib">
