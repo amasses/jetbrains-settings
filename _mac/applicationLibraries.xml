@@ -6765,11 +6765,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/bcrypt-3.1.16/spec" />
@@ -17260,12 +17262,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/.github" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/ffi-1.13.1/.github" />
@@ -21318,10 +21322,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -26724,11 +26730,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.0.rc4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.0.rc4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.0.rc4-x86_64-darwin/lib" />
@@ -26900,11 +26908,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri-xmlsec-instructure/0.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri-xmlsec-instructure/0.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-xmlsec-instructure-0.9.6/spec" />
@@ -30194,6 +30204,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/4.3.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/lib" />
@@ -30201,6 +30212,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/4.3.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-4.3.5/lib" />
@@ -40495,11 +40507,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/sassc-2.4.0/test" />
