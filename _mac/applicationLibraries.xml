@@ -45476,6 +45476,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.38/.buildkite" />
       </excluded>
     </library>
+    <library name="visa_checkout (v1.0.40, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/fixtures" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/visa_checkout-1.0.40/.buildkite" />
+      </excluded>
+    </library>
     <library name="warden (v1.2.7, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
