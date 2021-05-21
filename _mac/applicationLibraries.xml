@@ -30377,6 +30377,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/lib" />
@@ -30384,6 +30385,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/lib" />
