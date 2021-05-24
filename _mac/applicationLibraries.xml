@@ -30399,6 +30399,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.1/tools" />
       </excluded>
     </library>
+    <library name="puma (v5.3.2, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/puma-5.3.2/tools" />
+      </excluded>
+    </library>
     <library name="pundit (v2.1.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
