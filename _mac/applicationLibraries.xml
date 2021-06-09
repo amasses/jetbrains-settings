@@ -16360,6 +16360,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.3/spec" />
       </excluded>
     </library>
+    <library name="fat_zebra (v3.2.4, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra-3.2.4/spec" />
+      </excluded>
+    </library>
     <library name="fat_zebra_brakeman (v0.1.10, chruby: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
