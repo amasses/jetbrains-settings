@@ -8047,6 +8047,36 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fatzebra_logging-0.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="fatzebra_logging (v0.0.6@3d5c65, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.buildkite" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.buildkite" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/bundler/gems/logging-3d5c65b12e5b/.buildkite" />
+      </excluded>
+    </library>
+    <library name="fatzebra_logging (v0.0.7.pre.alpha, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fatzebra_logging-0.0.7.pre.alpha/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fatzebra_logging-0.0.7.pre.alpha/lib" />
+      </SOURCES>
+    </library>
     <library name="fd-base24 (v0.1.382, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11017,6 +11047,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/lograge-sql-1.2.0/gemfiles" />
       </excluded>
     </library>
+    <library name="loofah (v2.10.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/loofah-2.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/loofah-2.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.4.0, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11897,6 +11938,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.1/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.1/.github" />
+      </excluded>
+    </library>
+    <library name="mini_portile2 (v2.5.3, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/mini_portile2-2.5.3/.github" />
       </excluded>
     </library>
     <library name="minitest (v5.12.2, chruby: ruby-2.7.1) [gem]" type="rubylib">
@@ -13226,6 +13286,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.5-x86_64-darwin/ext" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.11.7, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/nokogiri-1.11.7-x86_64-darwin/ext" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13566,6 +13645,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.5/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.5/pages" />
+      </excluded>
+    </library>
+    <library name="oj (v3.11.6, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/oj-3.11.6/pages" />
       </excluded>
     </library>
     <library name="okcomputer (v1.18.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
