@@ -8102,6 +8102,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1780/spec" />
       </excluded>
     </library>
+    <library name="fat_zebra_models (v2.0.1795, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/fat_zebra_models-2.0.1795/spec" />
+      </excluded>
+    </library>
     <library name="fat_zebra_rollbar (v0.1.11, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
