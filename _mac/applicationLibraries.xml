@@ -5358,6 +5358,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-3.1.0/bin" />
       </excluded>
     </library>
+    <library name="cronitor (v4.1.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.1/gems/cronitor-4.1.1/.github" />
+      </excluded>
+    </library>
     <library name="css_parser (v1.7.1, chruby: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
