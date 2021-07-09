@@ -6,5 +6,13 @@
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorSelectLine" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
