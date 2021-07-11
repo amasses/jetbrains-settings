@@ -1,18 +1,48 @@
 <keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="CIDR.Debugger.CopyAddress">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CloseAllEditors" />
+  <action id="CloseProject" />
+  <action id="CollapseAllRegions" />
+  <action id="CollapseRegionRecursively" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="CompareClipboardWithSelection" />
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditSourceInNewWindow" />
   <action id="EditorSelectLine" />
+  <action id="ExpandAllRegions" />
+  <action id="ExpandRegionRecursively" />
   <action id="FileChooser.GotoHome" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
-  <action id="Terminal.ClearBuffer">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
+  <action id="Help.KeymapReference" />
+  <action id="JumpToLastChange" />
+  <action id="QuickChangeScheme" />
+  <action id="RemoteServers.EditServerConfig" />
+  <action id="RevealIn" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="ToggleZenMode" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
