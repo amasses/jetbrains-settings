@@ -34,10 +34,17 @@
   <action id="ExpandAllRegions" />
   <action id="ExpandRegionRecursively" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="Help.KeymapReference" />
+  <action id="HideSideWindows" />
   <action id="JumpToLastChange" />
   <action id="QuickChangeScheme" />
   <action id="RemoteServers.EditServerConfig" />
@@ -45,4 +52,5 @@
   <action id="Terminal.ClearBuffer" />
   <action id="ToggleZenMode" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
