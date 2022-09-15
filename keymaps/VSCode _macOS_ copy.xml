@@ -15,8 +15,15 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CloseAllEditors" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="CloseProject" />
   <action id="CollapseAllRegions" />
+  <action id="CollapseBlock">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
+  <action id="CollapseDocComments" />
   <action id="CollapseRegionRecursively" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
@@ -34,6 +41,10 @@
   <action id="ExpandAllRegions" />
   <action id="ExpandRegionRecursively" />
   <action id="FileChooser.GotoHome" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -46,9 +57,15 @@
   <action id="Help.KeymapReference" />
   <action id="HideSideWindows" />
   <action id="JumpToLastChange" />
+  <action id="Markdown.Layout.EditorAndPreview" />
+  <action id="OverrideFileTypeAction" />
   <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="RemoteServers.EditServerConfig" />
   <action id="RevealIn" />
+  <action id="SelectInProjectView" />
   <action id="Terminal.ClearBuffer" />
   <action id="ToggleZenMode" />
   <action id="Vcs.Log.FocusTextFilter" />
