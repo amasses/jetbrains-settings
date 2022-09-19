@@ -14,9 +14,15 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CloseAllEditors" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CloseProject" />
   <action id="CollapseAllRegions" />
