@@ -51,6 +51,9 @@
     <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
